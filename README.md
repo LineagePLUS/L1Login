@@ -1,4 +1,4 @@
-## Login_2.30
+## Login_2.40
 
 ***
 
@@ -6,7 +6,7 @@
 
 ***
 
-### Encode `v2.30`
+### Encode `v2.40`
 #### Tab I
 ###### Left Sife
 - Server Name
