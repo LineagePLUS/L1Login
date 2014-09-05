@@ -1,4 +1,4 @@
-## Login_3.21
+## Login_3.31
 
 ***
 
@@ -6,7 +6,7 @@
 
 ***
 
-### Encode `v3.20`
+### Encode `v3.30`
 #### Tab I
 ###### Left Sife
 - Server Name
@@ -48,3 +48,4 @@ Generates `pack.properties`
     Line 1 | http://update.domain.name/terms/index.html
     Line 2 | http://update.domain.name/login.ini
     Line 3 | http://update.domain.name/pc/update.ini
+	Line 4 | http://ui.domain.name/index.html
