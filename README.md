@@ -1,4 +1,4 @@
-## Login_2.40
+## Login_3.21
 
 ***
 
@@ -6,7 +6,7 @@
 
 ***
 
-### Encode `v2.40`
+### Encode `v3.20`
 #### Tab I
 ###### Left Sife
 - Server Name
@@ -19,6 +19,9 @@
 - Anti-Plug
 - Advanced Plug-In
 - Pak version 
+- LinHelper
+- Mobile Packet not encrypted
+- Allow multi open
 
 ###### Bottom
 - Server #
@@ -34,5 +37,14 @@ Generates `pack.properties`
 	RSA_KEY_N=##########
 
 ###### Section II
+- Copies data
+
+###### Section III
 - Select Client Version
 - Creates `ver.pak` from `ver.txt`
+
+#### Tab III
+
+    Line 1 | http://update.domain.name/terms/index.html
+    Line 2 | http://update.domain.name/login.ini
+    Line 3 | http://update.domain.name/pc/update.ini
