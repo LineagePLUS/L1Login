@@ -1,0 +1,1191 @@
+1228
+6
+45 95 209 ; field zone name 0 blue
+10 173 90 ; 1-19 zone 1 green
+174 157 14 ; 20-29 zone 2 yellow
+213 130 23 ; 30-39 zone 3 orange
+222 60 60 ; 40-49 zone 4 red
+133 14 189 ; 50-99 zone 5 purple
+10 ; 範圍指定的 alias map 個數
+5551 5552 5553  ; 情人節活動(2012)
+5501 5502 5550  ; 萬聖節魔女村範圍指定(國內)
+7100 7101 7130  ; 萬聖節魔女村範圍指定(海外)
+9000 9001 9099  ; 過去之秘密研究所範圍指定 ep0 part1
+5303 5304 5383  ; 裂痕地監 (51 ~ 65)
+5384 5385 5434  ; 裂痕地監 (66 ~ 75)
+5435 5436 5455  ; 裂痕地監 (76 ~ 100)
+9101 9102 9199  ; 過去之秘密研究所範圍指定 ep0 part2
+2101 2102 2150  ; 冰之女王的宮殿(友好)
+2151 2152 2200  ; 冰之女王的宮殿(敵意)
+100 ; 個別指定的 alias map 個數
+101 1 10001 ; PC網咖獎勵
+102 1 10002
+103 1 10003
+104 1 10004
+105 1 10005
+106 1 10006
+107 1 10007
+108 1 10008
+109 1 10009
+110 1 10010
+111 1 10011
+112 1 10012
+113 1 10013
+114 1 10014
+115 1 10015
+116 1 10016
+117 1 10017
+118 1 10018
+119 1 10019
+120 1 10020
+121 1 10021
+122 1 10022
+123 1 10023
+124 1 10024
+125 1 10025
+126 1 10026
+127 1 10027
+128 1 10028
+129 1 10029
+130 1 10030
+131 1 10031
+132 1 10032
+133 1 10033
+134 1 10034
+135 1 10035
+136 1 10036
+137 1 10037
+138 1 10038
+139 1 10039
+140 1 10040
+141 1 10041
+142 1 10042
+143 1 10043
+144 1 10044
+145 1 10045
+146 1 10046
+147 1 10047
+148 1 10048
+149 1 10049
+150 1 10050
+151 1 10051
+152 1 10052
+153 1 10053
+154 1 10054
+155 1 10055
+156 1 10056
+157 1 10057
+158 1 10058
+159 1 10059
+160 1 10060
+161 1 10061
+162 1 10062
+163 1 10063
+164 1 10064
+165 1 10065
+166 1 10066
+167 1 10067
+168 1 10068
+169 1 10069
+170 1 10070
+171 1 10071
+172 1 10072
+173 1 10073
+174 1 10074
+175 1 10075
+176 1 10076
+177 1 10077
+178 1 10078
+179 1 10079
+180 1 10080
+181 1 10081
+182 1 10082
+183 1 10083
+184 1 10084
+185 1 10085
+186 1 10086
+187 1 10087
+188 1 10088
+189 1 10089
+190 1 10090
+191 1 10091
+192 1 10092
+193 1 10093
+194 1 10094
+195 1 10095
+196 1 10096
+197 1 10097
+198 1 10098
+199 1 10099
+200 1 10100
+; Zone Infomation
+"說話之島" 0 0 32545 32905 32606 32987 100 1 ;Talking Island villige 
+"說話之島" 0 0 0 0 0 0 0 1 ;Talking Island
+"冒險洞窟 1樓" 1 1 0 0 0 0 ;Talking island dungeon B1
+"冒險洞窟 2樓" 1 2 0 0 0 0 ;Talking island dungeon B2
+"甘特之家" 0 3 0 0 0 0 0 14 ;Gunter's house
+"往古魯丁的船" 0 5 0 0 0 0 2 ;Ship talking island to aden world
+"往說話之島的船" 0 6 0 0 0 0 3 ;Ship aden world to talking island
+"古魯丁地監 1樓" 1 7 0 0 0 0 ;Dungeon in gludio B1
+"古魯丁地監 2樓" 1 8 0 0 0 0 ;Dungeon in gludio B2
+"古魯丁地監 3樓" 1 9 0 0 0 0 ;Dungeon in gludio B3
+"古魯丁地監 4樓" 1 10 0 0 0 0 ;Dungeon in gludio B4
+"古魯丁地監 5樓" 1 11 0 0 0 0 ;Dungeon in gludio B5
+"古魯丁地監 6樓" 1 12 0 0 0 0 ;Dungeon in gludio B6
+"古魯丁地監 7樓" 1 13 0 0 0 0 ;Dungeon in gludio B7
+"海底隧道" 1 14 0 0 0 0 ;Underworld path
+"肯特內城" 0 15 0 0 0 0 119 ;Kent inner castle
+"哈汀研究所" 0 16 0 0 0 0 0 17 ;Hardin's lab
+"娜魯帕洞穴" 0 17 0 0 0 0 ;Nerupa's house
+"都佩傑諾地監" 0 18 0 0 0 0 ;Dupelgenon dungeon
+"眠龍洞穴 1樓" 1 19 0 0 0 0 ;Dungeon in Elven forest B1
+"眠龍洞穴 2樓" 1 20 0 0 0 0 ;Dungeon in Elven forest B2
+"眠龍洞穴 3樓" 1 21 0 0 0 0 ;Dungeon in Elven forest B3
+"傑瑞德的試煉地監" 1 22 0 0 0 0 ;Gerard test dungeon
+"風木城地監 1樓" 1 23 0 0 0 0 ;Windawood castle dungeon
+"風木城地監 2樓" 2 24 0 0 0 0 ;Windawood castle dungeon
+"修練洞穴 1樓" 1 25 0 0 0 0 ;Dungeon in windawood B1
+"修練洞穴 2樓" 1 26 0 0 0 0 ;Dungeon in windawood B2
+"修練洞穴 3樓" 1 27 0 0 0 0 ;Dungeon in windawood B3
+"修練洞穴 4樓" 2 28 0 0 0 0 ;Dungeon in windawood B4
+"風木城內城" 0 29 0 0 0 0 120 ;Windawood inner castle
+"龍之谷地監 1樓" 2 30 0 0 0 0 ;Dungeon in dragon valley B1
+"龍之谷地監 2樓" 2 31 0 0 0 0 ;Dungeon in dragon valley B2
+"龍之谷地監 3樓" 2 32 0 0 0 0 ;Dungeon in dragon valley B3
+"龍之谷地監 4樓" 2 33 0 0 0 0 ;Dungeon in dragon valley B4
+"龍之谷地監 5樓" 2 35 0 0 0 0 ;Dungeon in dragon valley B5
+"龍之谷地監 6樓" 2 36 0 0 0 0 ;Dungeon in dragon valley B6
+"安塔瑞斯棲息地" 5 37 0 0 0 0 ;Lair of Antharas
+"巨蟻洞穴" 1 43 0 0 0 0 ;Ant cave
+"巨蟻洞穴" 1 44 0 0 0 0 ;Ant cave
+"巨蟻洞穴" 1 45 0 0 0 0 ;Ant cave
+"巨蟻洞穴" 1 46 0 0 0 0 ;Ant cave
+"巨蟻洞穴" 1 47 0 0 0 0 ;Ant cave
+"巨蟻洞穴" 2 48 0 0 0 0 ;Ant cave
+"巨蟻洞穴" 2 49 0 0 0 0 ;Ant cave
+"巨蟻洞穴" 1 50 0 0 0 0 ;Ant cave
+"巨蟻洞穴" 3 51 0 0 0 0 ;Ant cave
+"巨蟻洞穴" 2 541 0 0 0 0 ;Ant cave
+"巨蟻洞穴" 2 542 0 0 0 0 ;Ant cave
+"巨蟻女皇棲息地" 3 543 0 0 0 0 ;Ant cave
+"奇岩內城" 0 52 0 0 0 0 121 ;Giran inner castle
+"奇岩地監 1樓" 5 53 0 0 0 0 ;Dungeon in giran B1
+"奇岩地監 2樓" 5 54 0 0 0 0 ;Dungeon in giran B2
+"奇岩地監 3樓" 5 55 0 0 0 0 ;Dungeon in giran B3
+"奇岩地監 4樓" 5 56 0 0 0 0 ;Dungeon in giran B4
+"歌唱之島" 0 57 0 0 0 0 ;Singing island
+"隱龍之地" 0 58 0 0 0 0 ;Hidden valley
+"隱龍之地" 0 5801 0 0 0 0 ;Hidden valley
+"隱龍之地" 0 5802 0 0 0 0 ;Hidden valley
+"隱龍之地" 0 5803 0 0 0 0 ;Hidden valley
+"海音地監 1樓" 1 59 0 0 0 0 ;Dungeon of Eva kingdom B1
+"海音地監 2樓" 1 60 0 0 0 0 ;Dungeon of Eva kingdom B2
+"海音地監 3樓" 2 61 0 0 0 0 ;Dungeon of Eva kingdom B3
+"伊娃神殿" 0 62 0 0 0 0 122 ;Sanctury of Eva
+"海音地監 4樓" 1 63 0 0 0 0 123 ;Kingdom of Eva
+"海音內城" 0 64 0 0 0 0 124 ;Heine inner castle
+"法利昂棲息地" 5 65 0 0 0 0 6 ;Lair of Fafurion
+"侏儒洞穴" 0 66 0 0 0 0 125 ;Dwarf cave
+"巴拉卡斯棲息地" 5 67 0 0 0 0 7 ;Lair of Valakas
+"歌唱之島" 1 68 0 0 0 0 126 ;Singing island
+"隱藏之谷" 1 69 0 0 0 0 127 ;Hidden valley
+"林德拜爾棲息地" 5 4 34065 33053 34017 32948 ;Lair of Lindvior
+"遺忘之島" 3 70 0 0 0 0 128 ;Forgotten island
+"水晶洞穴 1樓" 3 72 0 0 0 0 ;Oren ice dungeon B1
+"水晶洞穴 2樓" 4 73 0 0 0 0 ;Oren ice dungeon B2
+"水晶洞穴 3樓" 4 74 0 0 0 0 ;Oren ice dungeon B3
+"象牙塔 1樓" 1 75 0 0 0 0 ;Oren tower of ivory 1F
+"象牙塔 2樓" 1 76 0 0 0 0 ;Oren tower of ivory 2F
+"象牙塔 3樓" 1 77 0 0 0 0 ;Oren tower of ivory 3F
+"象牙塔 無生物研究室" 5 78 0 0 0 0 ;Ivory Tower 4F
+"象牙塔 黑魔法研究室" 5 79 0 0 0 0 ;Ivory Tower 5F
+"象牙塔 魔物封印室" 5 80 0 0 0 0 ;Ivory Tower 6F
+"象牙塔 魔物封印室" 5 81 0 0 0 0 ;Ivory Tower 7F
+"象牙塔 惡魔封印室" 5 82 0 0 0 0 ;Ivory Tower 8F
+"往遺忘之島的船" 0 83 0 0 0 0 11 ;Ship aden world to forgotten island
+"往海音的船" 0 84 0 0 0 0 12 ;Ship forgotten island to Aden world
+"歌唱之島地監" 1 85 0 0 0 0 ;Singing island dungeon
+"隱藏之谷地監" 1 86 0 0 0 0 ;Hidden valley dungeon
+"帕古洞穴" 0 87 0 0 0 0 ;Newbie dungeon
+"奇岩競技場" 0 88 0 0 0 0 ;Giran Colosseum
+"奇岩競技場" 0 89 0 0 0 0 ;Giran Colosseum
+"奇岩競技場" 0 90 0 0 0 0 ;Giran Colosseum
+"說話之島競技場" 0 91 0 0 0 0 ;Talking island Colosseum
+"古魯丁競技場" 0 92 0 0 0 0 ;Gludio Colosseum
+"肯特競技場" 0 93 0 0 0 0 ;Kent Colosseum
+"風木競技場" 0 94 0 0 0 0 ;Windawood Colosseum
+"銀騎士競技場" 0 95 0 0 0 0 ;Silver knight Colosseum
+"巴拉卡斯之窟競技場" 0 96 0 0 0 0 ;Lair of Valakas Colosseum
+"海音競技場" 0 97 0 0 0 0 ;Heine Colosseum
+"威頓競技場" 0 98 0 0 0 0 ;Welldone Colosseum
+"管理者房間" 0 99 0 0 0 0 ;Healper's room
+"傲慢之塔 1樓" 0 101 0 0 0 0 ;Oman tower 1F
+"傲慢之塔 2樓" 3 102 0 0 0 0 ;Oman tower 2F
+"傲慢之塔 3樓" 3 103 0 0 0 0 ;Oman tower 3F
+"傲慢之塔 4樓" 2 104 0 0 0 0 ;Oman tower 4F
+"傲慢之塔 5樓" 3 105 0 0 0 0 ;Oman tower 5F
+"傲慢之塔 6樓" 1 106 0 0 0 0 ;Oman tower 6F
+"傲慢之塔 7樓" 3 107 0 0 0 0 ;Oman tower 7F
+"傲慢之塔 8樓" 1 108 0 0 0 0 ;Oman tower 8F
+"傲慢之塔 9樓" 3 109 0 0 0 0 ;Oman tower 9F
+"傲慢之塔 10樓" 3 110 0 0 0 0 ;Oman tower 10F
+"傲慢之塔 11樓" 3 111 0 0 0 0 ;Oman tower 11F
+"傲慢之塔 12樓" 3 112 0 0 0 0 ;Oman tower 12F
+"傲慢之塔 13樓" 3 113 0 0 0 0 ;Oman tower 13F
+"傲慢之塔 14樓" 1 114 0 0 0 0 ;Oman tower 14F
+"傲慢之塔 15樓" 3 115 0 0 0 0 ;Oman tower 15F
+"傲慢之塔 16樓" 1 116 0 0 0 0 ;Oman tower 16F
+"傲慢之塔 17樓" 3 117 0 0 0 0 ;Oman tower 17F
+"傲慢之塔 18樓" 1 118 0 0 0 0 ;Oman tower 18F
+"傲慢之塔 19樓" 3 119 0 0 0 0 ;Oman tower 19F
+"傲慢之塔 20樓" 4 120 0 0 0 0 ;Oman tower 20F
+"傲慢之塔 21樓" 3 121 0 0 0 0 ;Oman tower 21F
+"傲慢之塔 22樓" 4 122 0 0 0 0 ;Oman tower 22F
+"傲慢之塔 23樓" 4 123 0 0 0 0 ;Oman tower 23F
+"傲慢之塔 24樓" 2 124 0 0 0 0 ;Oman tower 24F
+"傲慢之塔 25樓" 4 125 0 0 0 0 ;Oman tower 25F
+"傲慢之塔 26樓" 1 126 0 0 0 0 ;Oman tower 26F
+"傲慢之塔 27樓" 4 127 0 0 0 0 ;Oman tower 27F
+"傲慢之塔 28樓" 2 128 0 0 0 0 ;Oman tower 28F
+"傲慢之塔 29樓" 4 129 0 0 0 0 ;Oman tower 29F
+"傲慢之塔 30樓" 4 130 0 0 0 0 ;Oman tower 30F
+"傲慢之塔 31樓" 4 131 0 0 0 0 ;Oman tower 31F
+"傲慢之塔 32樓" 4 132 0 0 0 0 ;Oman tower 32F
+"傲慢之塔 33樓" 4 133 0 0 0 0 ;Oman tower 33F
+"傲慢之塔 34樓" 1 134 0 0 0 0 ;Oman tower 34F
+"傲慢之塔 35樓" 4 135 0 0 0 0 ;Oman tower 35F
+"傲慢之塔 36樓" 1 136 0 0 0 0 ;Oman tower 36F
+"傲慢之塔 37樓" 4 137 0 0 0 0 ;Oman tower 37F
+"傲慢之塔 38樓" 2 138 0 0 0 0 ;Oman tower 38F
+"傲慢之塔 39樓" 4 139 0 0 0 0 ;Oman tower 39F
+"傲慢之塔 40樓" 4 140 0 0 0 0 ;Oman tower 40F
+"傲慢之塔 41樓" 4 141 0 0 0 0 ;Oman tower 41F
+"傲慢之塔 42樓" 4 142 0 0 0 0 ;Oman tower 42F
+"傲慢之塔 43樓" 4 143 0 0 0 0 ;Oman tower 43F
+"傲慢之塔 44樓" 2 144 0 0 0 0 ;Oman tower 44F
+"傲慢之塔 45樓" 4 145 0 0 0 0 ;Oman tower 45F
+"傲慢之塔 46樓" 1 146 0 0 0 0 ;Oman tower 46F
+"傲慢之塔 47樓" 4 147 0 0 0 0 ;Oman tower 47F
+"傲慢之塔 48樓" 2 148 0 0 0 0 ;Oman tower 48F
+"傲慢之塔 49樓" 4 149 0 0 0 0 ;Oman tower 49F
+"傲慢之塔 50樓" 4 150 0 0 0 0 ;Oman tower 50F
+"傲慢之塔 51樓" 4 151 0 0 0 0 ;Oman tower 51F
+"傲慢之塔 52樓" 4 152 0 0 0 0 ;Oman tower 52F
+"傲慢之塔 53樓" 4 153 0 0 0 0 ;Oman tower 53F
+"傲慢之塔 54樓" 2 154 0 0 0 0 ;Oman tower 54F
+"傲慢之塔 55樓" 4 155 0 0 0 0 ;Oman tower 55F
+"傲慢之塔 56樓" 1 156 0 0 0 0 ;Oman tower 56F
+"傲慢之塔 57樓" 4 157 0 0 0 0 ;Oman tower 57F
+"傲慢之塔 58樓" 2 158 0 0 0 0 ;Oman tower 58F
+"傲慢之塔 59樓" 4 159 0 0 0 0 ;Oman tower 59F
+"傲慢之塔 60樓" 5 160 0 0 0 0 ;Oman tower 60F
+"傲慢之塔 61樓" 4 161 0 0 0 0 ;Oman tower 61F
+"傲慢之塔 62樓" 4 162 0 0 0 0 ;Oman tower 62F
+"傲慢之塔 63樓" 4 163 0 0 0 0 ;Oman tower 63F
+"傲慢之塔 64樓" 2 164 0 0 0 0 ;Oman tower 64F
+"傲慢之塔 65樓" 4 165 0 0 0 0 ;Oman tower 65F
+"傲慢之塔 66樓" 1 166 0 0 0 0 ;Oman tower 66F
+"傲慢之塔 67樓" 4 167 0 0 0 0 ;Oman tower 67F
+"傲慢之塔 68樓" 2 168 0 0 0 0 ;Oman tower 68F
+"傲慢之塔 69樓" 4 169 0 0 0 0 ;Oman tower 69F
+"傲慢之塔 70樓" 5 170 0 0 0 0 ;Oman tower 70F
+"傲慢之塔 71樓" 4 171 0 0 0 0 ;Oman tower 71F
+"傲慢之塔 72樓" 4 172 0 0 0 0 ;Oman tower 72F
+"傲慢之塔 73樓" 4 173 0 0 0 0 ;Oman tower 73F
+"傲慢之塔 74樓" 2 174 0 0 0 0 ;Oman tower 74F
+"傲慢之塔 75樓" 5 175 0 0 0 0 ;Oman tower 75F
+"傲慢之塔 76樓" 1 176 0 0 0 0 ;Oman tower 76F
+"傲慢之塔 77樓" 4 177 0 0 0 0 ;Oman tower 77F
+"傲慢之塔 78樓" 2 178 0 0 0 0 ;Oman tower 78F
+"傲慢之塔 79樓" 5 179 0 0 0 0 ;Oman tower 79F
+"傲慢之塔 80樓" 5 180 0 0 0 0 ;Oman tower 80F
+"傲慢之塔 81樓" 5 181 0 0 0 0 ;Oman tower 81F
+"傲慢之塔 82樓" 5 182 0 0 0 0 ;Oman tower 82F
+"傲慢之塔 83樓" 5 183 0 0 0 0 ;Oman tower 83F
+"傲慢之塔 84樓" 3 184 0 0 0 0 ;Oman tower 84F
+"傲慢之塔 85樓" 5 185 0 0 0 0 ;Oman tower 85F
+"傲慢之塔 86樓" 1 186 0 0 0 0 ;Oman tower 86F
+"傲慢之塔 87樓" 5 187 0 0 0 0 ;Oman tower 87F
+"傲慢之塔 88樓" 3 188 0 0 0 0 ;Oman tower 88F
+"傲慢之塔 89樓" 5 189 0 0 0 0 ;Oman tower 89F
+"傲慢之塔 90樓" 5 190 0 0 0 0 ;Oman tower 90F
+"傲慢之塔 91樓" 5 191 0 0 0 0 ;Oman tower 91F
+"傲慢之塔 92樓" 5 192 0 0 0 0 ;Oman tower 92F
+"傲慢之塔 93樓" 5 193 0 0 0 0 ;Oman tower 93F
+"傲慢之塔 94樓" 5 194 0 0 0 0 ;Oman tower 94F
+"傲慢之塔 95樓" 5 195 0 0 0 0 ;Oman tower 95F
+"傲慢之塔 96樓" 1 196 0 0 0 0 ;Oman tower 96F
+"傲慢之塔 97樓" 5 197 0 0 0 0 ;Oman tower 97F
+"傲慢之塔 98樓" 5 198 0 0 0 0 ;Oman tower 98F
+"傲慢之塔 99樓" 5 199 0 0 0 0 ;Oman tower 99F
+"傲慢之塔 100樓" 5 200 0 0 0 0 ;Oman tower 100F
+"法師試煉地監" 1 201 0 0 0 0 ;Mage quest dungeon
+"法師試煉地監" 1 202 0 0 0 0 ;Mage quest dungeon
+"法師試煉地監" 1 203 0 0 0 0 ;Mage quest dungeon
+"法師試煉地監" 1 204 0 0 0 0 ;Mage quest dungeon
+"黑暗妖精地監" 1 209 0 0 0 0 ;Darkelf dungeon
+"黑暗妖精地監" 1 210 0 0 0 0 ;Darkelf dungeon
+"黑暗妖精地監" 1 211 0 0 0 0 ;Darkelf dungeon
+"黑暗妖精地監" 1 212 0 0 0 0 ;Darkelf dungeon
+"黑暗妖精地監" 3 213 0 0 0 0 ;Darkelf dungeon
+"黑暗妖精地監" 1 214 0 0 0 0 ;Darkelf dungeon
+"黑暗妖精地監" 1 215 0 0 0 0 ;Darkelf dungeon
+"黑暗妖精地監" 1 216 0 0 0 0 ;Darkelf dungeon
+"變種巨蟻地監" 1 217 0 0 0 0 ;Mutant ant dungeon
+"變種巨蟻地監" 1 218 0 0 0 0 ;Mutant ant dungeon
+"傑瑞德的試煉地監" 1 221 0 0 0 0 ;Gerard test dungeon
+"傑瑞德的試煉地監" 1 222 0 0 0 0 ;Gerard test dungeon
+"傑瑞德的試煉地監" 1 223 0 0 0 0 ;Gerard test dungeon
+"傑瑞德的試煉地監" 1 224 0 0 0 0 ;Gerard test dungeon
+"傑瑞德的試煉地監" 1 225 0 0 0 0 ;Gerard test dungeon
+"傑瑞德的試煉地監" 1 226 0 0 0 0 ;Gerard test dungeon
+"傑瑞德的試煉地監" 1 227 0 0 0 0 ;Gerard test dungeon
+"傑瑞德的試煉地監" 1 228 0 0 0 0 ;Gerard test dungeon
+"吉姆的密室" 0 237 0 0 0 0 ;Jim dungeon
+"象牙塔秘密研究室" 5 270 0 0 0 0 ;Ivory Tower quest
+"亞丁內城" 0 300 0 0 0 0 130 ;Aden inner castle
+"傲慢之塔地下水路" 0 301 0 0 0 0 ;Oman tower underground path
+"賽菲亞地監" 0 302 0 0 0 0 ;Sepia dungeon
+"夢幻之島" 3 303 0 0 0 0 14 ;Island of phantasm
+"沉默洞穴" 1 304 0 0 0 0 131 15 ;Silence cave
+"布魯迪卡洞穴" 1 305 0 0 0 0 0 16 ;Elder cave
+"黑暗妖精試煉地監" 1 306 0 0 0 0 ;Dungeon of evil thoughts
+"拉斯塔巴德地下洞穴 1樓" 1 307 0 0 0 0 ;Diad route B1
+"拉斯塔巴德地下洞穴 2樓" 1 308 0 0 0 0 ;Diad route B2
+"拉斯塔巴德地下洞穴 3樓" 1 309 0 0 0 0 ;Diad route B3
+"地獄" 0 666 0 0 0 0 ;The hell
+"妖魔森林" 0 4 32511 32191 32960 32537 117 2 ;Orcish Forest
+"古魯丁" 0 4 32512 32537 32960 33023 101 3 ;Gludio
+"風木" 0 4 32512 33023 32960 33535 109 4 ;Windawood
+"妖森" 0 4 32960 32191 33216 32511 108 5 ;Elven Forest
+"肯特" 0 4 32960 32511 33280 33023 114 6 ;Kent
+"肯特" 0 4 33088 33023 33280 33087 114 6 ;Kent2
+"沙漠警界地帶(初級村)" 1 4 33037 33113 33121 33280 ;銀騎士field-沙漠警界地帶
+"沉靜的森林(初級村)" 1 4 33121 33119 33244 33280 ;銀騎士field-沉靜的森林
+"沉靜的森林(初級村)" 1 4 33241 33143 33253 33280 ;銀騎士field-沉靜的森林
+"沉靜的森林(初級村)" 1 4 33253 33199 33269 33235 ;銀騎士field-沉靜的森林
+"北部森林(初級村)" 0 4 33121 33280 33248 33330 ;銀騎士field-北部森林
+"北部森林(初級村)" 0 4 33248 33311 33255 33330 ;銀騎士field-北部森林
+"西部森林(初級村)" 0 4 33037 33280 33121 33330 ;銀騎士field-西部 森林
+"南部森林(初級村)" 0 4 32954 33330 33041 33472 ;銀騎士field-南部 森林
+"南部森林(初級村)" 0 4 32960 33472 33106 33535 ;銀騎士field-南部 森林
+"南部森林(初級村)" 0 4 33040 33430 33106 33472 ;銀騎士field-南部 森林
+"東部森林(初級村)" 0 4 33152 33330 33269 33535 ;銀騎士field-東部 森林
+"東部森林(初級村)" 0 4 33269 33366 33287 33499 ;銀騎士field-東部 森林
+"東部森林(初級村)" 0 4 33287 33412 33299 33501 ;銀騎士field-東部 森林
+"東部森林(初級村)" 0 4 33299 33449 33311 33478 ;銀騎士field-東部 森林
+"東部森林(初級村)" 0 4 33106 33408 33152 33535 ;銀騎士field-東部 森林
+"銀騎士村莊(初級村)" 0 4 33106 33330 33152 33408 ;銀騎士村落
+"銀騎士村莊(初級村)" 0 4 33041 33330 33106 33430 ;銀騎士村落
+"銀騎士村莊(初級村)" 0 4 32960 33023 33088 33087 ;銀騎士 基本區域設定
+"銀騎士村莊(初級村)" 0 4 32960 33087 33280 33535 ;銀騎士 基本區域設定
+"龍之谷" 0 4 33216 32191 33472 32511 110 8 ;Dragon valley
+"火龍窟" 0 4 33472 32191 33856 32511 0 9 ;Lair of Valakas
+"威頓" 0 4 33536 32511 33856 32575 0 9 ;Lair of Valakas2
+"奇岩" 0 4 33280 32511 33536 33023 103 10 ;Giran
+"奇岩" 0 4 33536 32575 33920 33023 103 10 ;Giran2
+"海音" 0 4 33280 33023 33792 33535 115 11 ;Heine
+"歐瑞" 0 4 34011 32218 34090 32326 104 12 ;Oren Town
+"歐瑞" 0 4 33856 32191 33920 32575 0 12 ;Oren
+"歐瑞" 0 4 33920 32127 34304 32739 0 12 ;Oren2
+"亞丁" 0 4 33920 32739 34304 33023 13 ;Aden
+"亞丁" 0 4 33792 33023 34304 33535 106 13 ;Aden2
+"旅館" 0 17492 0 0 0 0 ;Auberge
+"古魯丁商店村" 0 340 0 0 0 0 134 ;Gludin market
+"奇岩商店村" 0 350 0 0 0 0 135 ;Giran market
+"歐瑞商店村" 0 360 0 0 0 0 136 ;Oren market
+"銀騎士商店村" 0 370 0 0 0 0 137 ;Silver Knight market
+"歐姆地監" 0 310 0 0 0 0 132 ;Oum dungeon
+"狄亞得要塞" 3 320 0 0 0 0 133 ;Diad Fortress
+"礦物洞穴" 0 330 0 0 0 0 ;Mineral cave
+"肯特城地監 1樓" 3 240 0 0 0 0 ;Kent Castle Dungeon 1F
+"肯特城地監 2樓" 3 241 0 0 0 0 ;Kent Castle Dungeon 2F
+"肯特城地監 3樓" 3 242 0 0 0 0 ;Kent Castle Dungeon 3F
+"肯特城地監 4樓" 4 243 0 0 0 0 ;Kent Castle Dungeon 4F
+"污濁之地" 3 244 0 0 0 0 129 ;Orc Castle Dungeon
+"隱藏的地下宮殿 1樓" 3 248 0 0 0 0 ;Giran Castle Dungeon 1F
+"隱藏的地下宮殿 2樓" 3 249 0 0 0 0 ;Giran Castle Dungeon 2F
+"隱藏的地下宮殿 3樓" 3 250 0 0 0 0 ;Giran Castle Dungeon 3F
+"隱藏的地下宮殿 4樓" 4 251 0 0 0 0 ;Giran Castle Dungeon 4F
+"古代巨人之墓" 5 400 32728 32853 32789 33017 ;Ruin of Ancient Giant
+"古代巨人之墓" 5 400 32787 32905 32860 33014 ;Ruin of Ancient Giant
+"古代巨人之墓" 5 400 32767 32827 32804 32855 ;Ruin of Ancient Giant
+"大洞穴抵抗軍地區" 3 400 32659 32811 32666 32818 ; 抵抗地區其他三
+"大洞穴抵抗軍地區" 3 400 32563 32863 32577 32868 ; 抵抗地區其他二
+"大洞穴抵抗軍地區" 3 400 32550 32864 32555 32881 ; 抵抗地區其他一
+"大洞穴隱遁者地區" 3 400 32890 32677 32899 32682 ; 隱遁地區其他三
+"大洞穴隱遁者地區" 3 400 32890 32677 32899 32683 ; 隱遁地區其他四
+"大洞穴隱遁者地區" 3 400 32708 32794 32747 32832 ; 隱遁地區四
+"大洞穴隱遁者地區" 3 400 32546 32958 32552 32991 ; 隱遁地區三
+"大洞穴隱遁者地區" 3 400 32534 32960 32546 32991 ; 隱遁地區五
+"大洞穴隱遁者地區" 3 400 32552 32865 32583 32991 ; 隱遁地區二
+"大洞穴隱遁者地區" 3 400 32698 32650 32735 32717 ; 歐姆地區
+"大洞穴隱遁者地區" 3 400 32622 32811 32636 32816 ; 隱遁地區其他三
+"大洞穴隱遁者地區" 3 400 32837 32590 32890 32629 ; 精靈地區
+"大洞穴隱遁者地區" 3 400 32735 32629 32890 32729 ; 歐姆地區二
+"大洞穴隱遁者地區" 3 400 32583 32816 32727 33004 138 ; 隱遁者地區一
+"大洞穴隱遁者地區" 3 400 32817 32852 32863 32871 ; 地底湖地區三
+"大洞穴隱遁者地區" 3 400 32918 32923 32996 32999 ; 地底湖地區二
+"大洞穴隱遁者地區" 3 400 32863 32828 32918 32939 ; 地底湖地區一
+"大洞穴抵抗軍地區" 3 400 0 0 0 0 ;Cavern
+"大洞穴抵抗軍地區" 3 401 32705 32768 32777 32807 ; 抵抗地 歐姆 連結
+"大洞穴隱遁者地區" 3 401 32782 32787 32819 32814 ; 隱遁地北方廢墟
+"大洞穴隱遁者地區" 3 401 32790 32832 32818 32879 ; 隱遁地地底湖
+"魔族神殿" 5 410 0 0 0 0 17 ;Sanctuary of Evil
+"地底湖" 3 420 0 0 0 0 18 ;Abyss Lake
+"精靈墓穴" 4 430 0 0 0 0 19 ;Elemental Grave
+"海賊島" 2 440 0 0 0 0 20 ;Pirate Island
+"海賊島地監 1樓" 2 441 0 0 0 0 ;Pirate Island Dungeon B1
+"海賊島地監 2樓" 2 442 0 0 0 0 ;Pirate Island Dungeon B2
+"海賊島地監 3樓" 3 443 0 0 0 0 ;Pirate Island Dungeon B3
+"海賊島地監 4樓" 3 444 0 0 0 0 ;Pirate Island Dungeon B4
+"隱藏之港" 0 445 0 0 0 0 21 ;Hidden dock to Pirate island
+"往隱藏之港的船" 0 446 0 0 0 0 22 ;Ship Pirate island to Hidden dock
+"往海賊島的船" 0 447 0 0 0 0 23 ;Ship Hidden dock to Pirate island
+"拉斯塔巴德正門" 5 450 0 0 0 0 24 ;lastavard main door
+"1層 集會場" 5 451 0 0 0 0 ; lastavard 451
+"1樓 突擊隊訓練場" 5 452 0 0 0 0 ;lastavard 452
+"1樓 魔獸軍王之室" 5 453 0 0 0 0 ;lastavard 453
+"1樓 魔獸調教場" 5 454 0 0 0 0 ;lastavard 454
+"1樓 魔獸訓練場" 5 455 0 0 0 0 ;lastavard 455
+"1樓 魔獸召喚室" 5 456 0 0 0 0 ;lastavard 456
+"1樓 黑暗結界" 5 457 0 0 0 0 ;lastavard 457
+"2樓 黑魔法修練場" 5 460 0 0 0 0 ;lastavard 460
+"2樓 黑魔法研究室" 5 461 0 0 0 0 ;lastavard 461
+"2樓 法令軍王之室" 5 462 0 0 0 0 ;lastavard 462
+"2樓 法令軍王的書房" 5 463 0 0 0 0 ;lastavard 463
+"2樓 暗黑精靈召喚室" 5 464 0 0 0 0 ;lastavard 464
+"2樓 暗黑精靈棲息地" 5 465 0 0 0 0 ;lastavard 465
+"2樓 暗黑精靈研究室" 5 466 0 0 0 0 ;lastavard 466
+"2樓 黑暗結界" 5 467 0 0 0 0 ;lastavard 467
+"2樓 黑暗結界" 5 468 0 0 0 0 ;lastavard 468
+"3樓 惡靈祭壇" 5 470 0 0 0 0 ;lastavard 470
+"3樓 惡靈之主祭壇" 5 471 0 0 0 0 ;lastavard 471
+"3樓 傭兵訓練場" 5 472 0 0 0 0 ;lastavard 472
+"3樓 冥法軍訓練場" 5 473 0 0 0 0 ;lastavard 473
+"3樓 歐姆實驗室" 5 474 0 0 0 0 ;lastavard 474
+"3樓 冥法軍王之室" 5 475 0 0 0 0 ;lastavard 475
+"3樓 中央控制室" 5 476 0 0 0 0 ;lastavard 476
+"3樓 惡靈之主傭兵室" 5 477 0 0 0 0 ;lastavard 477
+"3樓 控制室走廊" 5 478 0 0 0 0 ;lastavard 478
+"拉斯塔巴德中央廣場" 5 479 0 0 0 0 ;lastavard 479
+"地下訓練場" 5 490 0 0 0 0 ;lastavard 490
+"地下通道" 5 491 0 0 0 0 ;lastavard 491
+"暗殺軍王之室" 5 492 0 0 0 0 ;lastavard 492
+"地下控制室" 5 493 0 0 0 0 ;lastavard 493
+"地下處刑場" 5 494 0 0 0 0 ;lastavard 494
+"地下競技場" 5 495 0 0 0 0 ;lastavard 495
+"地下監獄" 5 496 0 0 0 0 ;lastavard 496
+"海賊島" 3 480 0 0 0 0 25 ;Pirate Island
+"卡蜜拉的房間" 0 481 0 0 0 0 ;Kamyla's Room 481
+"混沌的大戰" 2 509 0 0 0 0 ;Chaos Battle Colosseum 509
+"福朗克的迷宮" 3 482 0 0 0 0 ;Franco's Labyrinth 482
+"迪哥的廢氣監獄" 3 483 0 0 0 0 ;Closed Jail of Diego
+"豪勢的地監" 4 484 0 0 0 0 ;Underground Jail of Hose
+"暗影神殿外圍" 4 521 0 0 0 0 26 ;Temple of Shadow Outland
+"暗影神殿 1樓" 5 522 0 0 0 0 ;Temple of Shadow 1F
+"暗影神殿 2樓" 5 523 0 0 0 0 ;Temple of Shadow 2F
+"暗影神殿 3樓" 5 524 0 0 0 0 ;Temple of Shadow 3F
+"4樓 格蘭肯神殿" 5 530 32716 32780 32796 32881 ;lastavard 530-1
+"4樓 長老‧琪娜之室" 5 530 32796 32807 32888 32873 ;lastavard 530-2
+"4樓 長老‧巴塔斯之室" 5 531 32726 32724 32790 32763 ;lastavard 531-1
+"4樓 長老‧巴洛斯之室" 5 531 32790 32722 32841 32765 ;lastavard 531-2
+"4樓 長老‧巴洛斯之室" 5 531 32803 32765 32834 32801 ;lastavard 531-3
+"4樓 長老‧巴洛斯之室" 5 531 32748 32765 32803 32816 ;lastavard 531-4
+"4樓 長老‧安迪斯之室" 5 531 32759 32816 32799 32844 ;lastavard 531-5
+"4樓 長老‧安迪斯之室" 5 531 32799 32801 32861 32882 ;lastavard 531-6
+"4樓 庭園廣場" 5 532 32804 32782 32880 32872 ;lastavard 532-1
+"4樓 長老‧艾迪爾之室" 5 532 32725 32781 32804 32867 ;lastavard 532-2
+"4樓 長老‧泰瑪斯之室" 5 533 32835 32865 32879 32946 ;lastavard 533-1
+"4樓 長老‧泰瑪斯之室" 5 533 32820 32885 32835 32925 ;lastavard 533-2
+"4樓 長老‧拉曼斯之室" 5 533 32802 32861 32827 32885 ;lastavard 533-3
+"4樓 長老‧拉曼斯之室" 5 533 32743 32864 32802 32918 ;lastavard 533-4
+"4樓 長老‧拉曼斯之室" 5 533 32757 32856 32772 32864 ;lastavard 533-5
+"4樓 長老‧巴陸德之室" 5 533 32719 32782 32793 32856 ;lastavard 533-6
+"4樓 長老‧巴陸德之室" 5 533 32749 32856 32755 32856 ;lastavard 533-7
+"4樓 長老會議廳" 5 534 32720 32805 32790 32881 ;lastavard 534-1
+"4樓 副神官‧卡山德拉之室" 5 534 32790 32784 32880 32865 ;lastavard 534-2
+"4樓 真‧冥皇丹特斯之室" 5 534 32880 32809 32936 32861 ;lastavard 534-3
+"黑暗妖精聖地" 5 535 0 0 0 0 27 ;lastavard 535
+"3樓 黑暗結界" 5 536 0 0 0 0 28 ;lastavard 536
+"受詛咒的黑暗妖精聖地" 5 537 0 0 0 0 0 ;lastavard 537
+"船舶之墓 海面" 4 550 0 0 0 0 29 ;grave of ships
+"船舶之墓 船艙" 4 551 0 0 0 0 ;grave of ships
+"船舶之墓 船艙" 4 552 0 0 0 0 ;grave of ships
+"船舶之墓 船艙" 4 553 0 0 0 0 ;grave of ships
+"船舶之墓 船艙" 4 554 0 0 0 0 ;grave of ships
+"船舶之墓 船艙" 4 555 0 0 0 0 ;grave of ships
+"船舶之墓 船艙" 4 556 0 0 0 0 ;grave of ships
+"船舶之墓 船艙" 4 557 0 0 0 0 ;grave of ships
+"船舶之墓 深海" 4 558 0 0 0 0 30 ;grave of ships
+"慾望洞穴入口" 4 600 0 0 0 0 31 ;Cave of Desire Outland
+"慾望洞穴大廳" 5 601 0 0 0 0 ;Cave of Desire lobby
+"炎魔謁見所" 5 602 0 0 0 0 ;Barlog room
+"炎魔房間" 5 603 0 0 0 0 ;Barlog lair
+"水之領域" 5 604 0 0 0 0 ;Water area
+"火之領域" 5 605 0 0 0 0 ;Fire area
+"風之領域" 5 606 0 0 0 0 ;Air area
+"地之領域" 5 607 0 0 0 0 ;Earth area
+"火焰之影實驗室" 5 608 0 0 0 0 ;Yahee LAB
+"天空之城" 3 630 0 0 0 0 38 ;taiwan event map
+"天空之城" 3 6301 0 0 0 0 38 ;taiwan event map
+"天空之城" 3 6302 0 0 0 0 38 ;taiwan event map
+"異次元空間" 3 631 0 0 0 0 ;taiwan event map
+"異次元空間" 3 6311 0 0 0 0 ;taiwan event map
+"異次元空間" 3 6312 0 0 0 0 ;taiwan event map
+"羅馬世界" 3 632 0 0 0 0 40 ;taiwan event map
+"羅馬世界" 3 6321 0 0 0 0 40 ;taiwan event map
+"羅馬世界" 3 6322 0 0 0 0 40 ;taiwan event map
+"羅馬世界" 3 6323 0 0 0 0 40 ;taiwan event map
+"封閉的海音地監" 3 252 0 0 0 0 ;heineC 252
+"封閉的伊娃王國" 3 253 0 0 0 0 ;heineC 253
+"封閉的海音地監" 4 254 0 0 0 0 ;heineC 254
+"亞丁地下墓穴 1樓" 1 257 0 0 0 0 ;aden castle dungeon 1F
+"亞丁地下墓穴 2樓" 3 258 32664 32768 32831 32939 ;aden castle dungeon 2F
+"亞丁地下墓穴 4樓" 5 258 32640 32960 32831 33129 ;aden castle dungeon 4F
+"亞丁地下墓穴 3樓" 4 259 32707 32768 32759 32946 ;aden castle dungeon 3F
+"廢棄的礦坑" 5 255 0 0 0 0 ;ore mine
+"廢棄的礦坑古道" 5 256 0 0 0 0 ;savage land
+"不死魔族拋棄之地" 4 777 0 0 0 0 41 ;fallen temple
+"原生魔族拋棄之地" 4 778 0 0 0 0 ;fallen cave
+"原生魔族拋棄之地" 4 779 0 0 0 0 ;fallen cave
+"追憶之島" 0 701 0 0 0 0 ;memory land
+"追憶之島" 0 702 0 0 0 0 ;memory land
+"追憶之島" 0 703 0 0 0 0 ;memory land
+"追憶之島" 0 704 0 0 0 0 ;memory land
+"追憶之島" 0 705 0 0 0 0 ;memory land
+"追憶之島" 0 706 0 0 0 0 ;memory land
+"追憶之島" 0 707 0 0 0 0 ;memory land
+"追憶之島" 0 708 0 0 0 0 ;memory land
+"追憶之島" 0 709 0 0 0 0 ;memory land
+"追憶之島" 0 710 0 0 0 0 ;memory land
+"追憶之島" 0 711 0 0 0 0 ;memory land
+"追憶之島" 0 712 0 0 0 0 ;memory land
+"追憶之島" 0 713 0 0 0 0 ;memory land
+"追憶之島" 0 714 0 0 0 0 ;memory land
+"追憶之島" 0 715 0 0 0 0 ;memory land
+"追憶之島" 0 716 0 0 0 0 ;memory land
+"追憶之島" 0 717 0 0 0 0 ;memory land
+"追憶之島" 0 718 0 0 0 0 ;memory land
+"追憶之島" 0 719 0 0 0 0 ;memory land
+"追憶之島" 0 720 0 0 0 0 ;memory land
+"追憶之島" 0 721 0 0 0 0 ;memory land
+"追憶之島" 0 722 0 0 0 0 ;memory land
+"追憶之島" 0 723 0 0 0 0 ;memory land
+"追憶之島" 0 724 0 0 0 0 ;memory land
+"底比斯 沙漠" 3 780 0 0 0 0 42 ; crack of time thebe 1st
+"底比斯 金字塔內部" 4 781 0 0 0 0 ; crack of time thebe 2st
+"底比斯 歐西里斯祭壇" 5 782 0 0 0 0 ; crack of time thebe 3st
+"提卡爾 廢墟村落" 3 783 32783 32654 32911 32882 43 ; crack of time tikal temple
+"提卡爾 密林" 3 783 32912 32652 32977 32882 ; crack of time tikal temple
+"提卡爾 沼澤" 3 783 32978 32651 33038 32883 ; crack of time tikal temple
+"提卡爾 神廟入口" 4 783 33039 32652 33165 32885 ; crack of time tikal temple
+"提卡爾 神廟內部" 4 783 33166 32651 33266 32886 ; crack of time tikal temple
+"提卡爾 庫庫爾坎祭壇" 5 784 32709 32836 32764 32891 ; crack of time tikal temple
+"希培利亞" 0 1000 0 0 0 0 143 18 ; silveria 幻術士村落
+"貝希摩斯" 0 1001 0 0 0 0 144 19 ; behimos 龍騎士村落
+"異界 奎斯特" 3 2004 0 0 0 0 47 ; qeust world
+"釣魚池" 0 5124 0 0 0 0 ;Fishing place
+"寵物戰戰場" 0 5125 0 0 0 0 ;petmatch place
+"寵物戰戰場" 0 5126 0 0 0 0 ;petmatch place
+"寵物戰戰場" 0 5127 0 0 0 0 ;petmatch place
+"寵物戰戰場" 0 5128 0 0 0 0 ;petmatch place
+"寵物戰戰場" 0 5129 0 0 0 0 ;petmatch place
+"寵物戰戰場" 0 5130 0 0 0 0 ;petmatch place
+"寵物戰戰場" 0 5131 0 0 0 0 ;petmatch place
+"寵物戰戰場" 0 5132 0 0 0 0 ;petmatch place
+"寵物戰戰場" 0 5133 0 0 0 0 ;petmatch place
+"寵物戰戰場" 0 5134 0 0 0 0 ;petmatch place
+"回憶之地" 0 5166 0 0 0 0 ; base status reset world
+"奇怪的村落" 0 613 0 0 0 0 ;pc premium zone
+"希培利亞" 0 1000 0 0 0 0 0 18 ; illusionist village
+"再生聖殿 1樓" 1 2000 32706 32829 32833 32957
+"再生聖殿 2樓" 1 2000 32842 32706 32956 32950
+"再生聖殿 3樓" 1 2000 32717 32722 32824 32817
+"再生聖殿 1樓" 1 2001 32706 32829 32833 32957
+"再生聖殿 2樓" 1 2001 32842 32706 32956 32950
+"再生聖殿 3樓" 1 2001 32717 32722 32824 32817
+"再生聖殿 1樓" 1 2002 32706 32829 32833 32957
+"再生聖殿 2樓" 1 2002 32842 32706 32956 32950
+"再生聖殿 3樓" 1 2002 32717 32722 32824 32817
+"再生聖殿 1樓" 1 2003 32706 32829 32833 32957
+"再生聖殿 2樓" 1 2003 32842 32706 32956 32950
+"再生聖殿 3樓" 1 2003 32717 32722 32824 32817
+"暴風修練 區域(初級村)" 4 2010 0 0 0 0 ;high pass
+"暴風修練 區域(初級村)" 4 2011 0 0 0 0 ;high pass 
+"惡魔王之領土" 4 5167 0 0 0 0 ;event devilking summon1
+"惡魔王之領土" 4 5168 0 0 0 0 ;event devilking summon2
+"惡魔王之領土" 4 5169 0 0 0 0 ;event devilking summon3
+"惡魔王之領土" 4 5170 0 0 0 0 ;event devilking summon4
+"惡魔王之領土" 4 5171 0 0 0 0 ;event devilking summon5
+"惡魔王之領土" 4 5172 0 0 0 0 ;event devilking summon6
+"惡魔王之領土" 4 5173 0 0 0 0 ;event devilking summon7
+"惡魔王之領土" 4 5174 0 0 0 0 ;event devilking summon8
+"惡魔王之領土" 4 5175 0 0 0 0 ;event devilking summon9
+"惡魔王之領土" 4 5176 0 0 0 0 ;event devilking summon10
+"惡魔王之領土" 4 5177 0 0 0 0 ;event devilking summon11
+"惡魔王之領土" 4 5178 0 0 0 0 ;event devilking summon12
+"惡魔王之領土" 4 5179 0 0 0 0 ;event devilking summon13
+"惡魔王之領土" 4 5180 0 0 0 0 ;event devilking summon14
+"惡魔王之領土" 4 5181 0 0 0 0 ;event devilking summon15
+"惡魔王之領土" 4 5182 0 0 0 0 ;event devilking summon16
+"惡魔王之領土" 4 5183 0 0 0 0 ;event devilking summon17
+"惡魔王之領土" 4 5184 0 0 0 0 ;event devilking summon18
+"惡魔王之領土" 4 5185 0 0 0 0 ;event devilking summon19
+"惡魔王之領土" 4 5186 0 0 0 0 ;event devilking summon20
+"惡魔王之領土" 4 5187 0 0 0 0 ;event devilking summon21
+"惡魔王之領土" 4 5188 0 0 0 0 ;event devilking summon22
+"惡魔王之領土" 4 5189 0 0 0 0 ;event devilking summon23
+"惡魔王之領土" 4 5190 0 0 0 0 ;event devilking summon24
+"象牙塔地下倉庫" 1 5191 0 0 0 0 ;long term mission
+"象牙塔地下倉庫" 1 5192 0 0 0 0 ;long term mission
+"象牙塔地下倉庫" 1 5193 0 0 0 0 ;long term mission
+"象牙塔地下倉庫" 1 5194 0 0 0 0 ;long term mission
+"象牙塔地下倉庫" 1 5195 0 0 0 0 ;long term mission
+"象牙塔地下倉庫" 1 5196 0 0 0 0 ;long term mission
+"象牙塔地下倉庫" 1 5197 0 0 0 0 ;long term mission
+"象牙塔地下倉庫" 1 5198 0 0 0 0 ;long term mission
+"象牙塔地下倉庫" 1 5199 0 0 0 0 ;long term mission
+"侏儒部落" 2 1002 32778 32832 32895 32959 45 ;forgotten valley of dragon
+"成長之地" 3 1002 32725 32832 32777 32959 45 ;forgotten valley of dragon
+"誕生之地" 3 1002 32640 32832 32724 32959 45 ;forgotten valley of dragon
+"龍之墓" 5 1002 32640 32576 32724 32710 45 ;forgotten valley of dragon
+"龍之墓" 5 1002 32640 32711 32753 32831 45 ;forgotten valley of dragon
+"蒼空之谷" 5 1002 32782 32688 32969 32732 45 ;forgotten valley of dragon
+"蒼空之谷" 5 1002 32970 32622 33000 32687 45 ;forgotten valley of dragon
+"造化之地" 5 1002 32725 32576 33023 32710 45 ;forgotten valley of dragon
+"造化之地" 5 1002 32754 32691 33023 32831 45 ;forgotten valley of dragon
+"安塔瑞斯 洞穴入口" 0 1005 32588 32711 32691 32761 ; dungeon entrance of antharas
+"安塔瑞斯 棲息地入口" 0 1005 32662 32653 32709 32688 ; entrance of antharas lair
+"安塔瑞斯 棲息地" 5 1005 32740 32652 32828 32728 ; antharas lair
+"安塔瑞斯 洞穴" 5 1005 32580 32770 32698 32957 ; dungeon of antharas
+"安塔瑞斯 洞穴" 5 1005 32709 32771 32827 32956 ; dungeon of antharas
+"安塔瑞斯 洞穴" 5 1005 32837 32770 32954 32955 ; dungeon of antharas
+"安塔瑞斯 洞穴" 5 1005 32841 32580 32955 32763 ; dungeon of antharas
+"安塔瑞斯 洞穴入口" 0 1006 32588 32711 32691 32761 ; dungeon entrance of antharas
+"安塔瑞斯 棲息地入口" 0 1006 32662 32653 32709 32688 ; entrance of antharas lair
+"安塔瑞斯 棲息地" 5 1006 32740 32652 32828 32728 ; antharas lair
+"安塔瑞斯 洞穴" 5 1006 32580 32770 32698 32957 ; dungeon of antharas
+"安塔瑞斯 洞穴" 5 1006 32709 32771 32827 32956 ; dungeon of antharas
+"安塔瑞斯 洞穴" 5 1006 32837 32770 32954 32955 ; dungeon of antharas
+"安塔瑞斯 洞穴" 5 1006 32841 32580 32955 32763 ; dungeon of antharas
+"安塔瑞斯 洞穴入口" 0 1007 32588 32711 32691 32761 ; dungeon entrance of antharas
+"安塔瑞斯 棲息地入口" 0 1007 32662 32653 32709 32688 ; entrance of antharas lair
+"安塔瑞斯 棲息地" 5 1007 32740 32652 32828 32728 ; antharas lair
+"安塔瑞斯 洞穴" 5 1007 32580 32770 32698 32957 ; dungeon of antharas
+"安塔瑞斯 洞穴" 5 1007 32709 32771 32827 32956 ; dungeon of antharas
+"安塔瑞斯 洞穴" 5 1007 32837 32770 32954 32955 ; dungeon of antharas
+"安塔瑞斯 洞穴" 5 1007 32841 32580 32955 32763 ; dungeon of antharas
+"安塔瑞斯 洞穴入口" 0 1008 32588 32711 32691 32761 ; dungeon entrance of antharas
+"安塔瑞斯 棲息地入口" 0 1008 32662 32653 32709 32688 ; entrance of antharas lair
+"安塔瑞斯 棲息地" 5 1008 32740 32652 32828 32728 ; antharas lair
+"安塔瑞斯 洞穴" 5 1008 32580 32770 32698 32957 ; dungeon of antharas
+"安塔瑞斯 洞穴" 5 1008 32709 32771 32827 32956 ; dungeon of antharas
+"安塔瑞斯 洞穴" 5 1008 32837 32770 32954 32955 ; dungeon of antharas
+"安塔瑞斯 洞穴" 5 1008 32841 32580 32955 32763 ; dungeon of antharas
+"安塔瑞斯 洞穴入口" 0 1009 32588 32711 32691 32761 ; dungeon entrance of antharas
+"安塔瑞斯 棲息地入口" 0 1009 32662 32653 32709 32688 ; entrance of antharas lair
+"安塔瑞斯 棲息地" 5 1009 32740 32652 32828 32728 ; antharas lair
+"安塔瑞斯 洞穴" 5 1009 32580 32770 32698 32957 ; dungeon of antharas
+"安塔瑞斯 洞穴" 5 1009 32709 32771 32827 32956 ; dungeon of antharas
+"安塔瑞斯 洞穴" 5 1009 32837 32770 32954 32955 ; dungeon of antharas
+"安塔瑞斯 洞穴" 5 1009 32841 32580 32955 32763 ; dungeon of antharas
+"安塔瑞斯 洞穴入口" 0 1010 32588 32711 32691 32761 ; dungeon entrance of antharas
+"安塔瑞斯 棲息地入口" 0 1010 32662 32653 32709 32688 ; entrance of antharas lair
+"安塔瑞斯 棲息地" 5 1010 32740 32652 32828 32728 ; antharas lair
+"安塔瑞斯 洞穴" 5 1010 32580 32770 32698 32957 ; dungeon of antharas
+"安塔瑞斯 洞穴" 5 1010 32709 32771 32827 32956 ; dungeon of antharas
+"安塔瑞斯 洞穴" 5 1010 32837 32770 32954 32955 ; dungeon of antharas
+"安塔瑞斯 洞穴" 5 1010 32841 32580 32955 32763 ; dungeon of antharas
+"法利昂 洞穴入口" 0 1011 32904 32712 33017 32761 ; dungeon entrance of fafurion
+"法利昂 棲息地入口" 0 1011 32903 32643 32956 32698 ; entrance of fafurion lair
+"法利昂 棲息地" 5 1011 32921 32799 33010 32869 ; fafurion lair
+"法利昂 洞穴" 5 1011 32715 32519 32890 32633 ; dungeon of fafurion
+"法利昂 洞穴" 5 1011 32713 32648 32891 32761 ; dungeon of fafurion
+"法利昂 洞穴" 5 1011 32713 32774 32891 32890 ; dungeon of fafurion
+"法利昂 洞穴" 5 1011 32903 32517 33082 32637 ; dungeon of fafurion
+"法利昂 洞穴入口" 0 1012 32904 32712 33017 32761 ; dungeon entrance of fafurion
+"法利昂 棲息地入口" 0 1012 32903 32643 32956 32698 ; entrance of fafurion lair
+"法利昂 棲息地" 5 1012 32921 32799 33010 32869 ; fafurion lair
+"法利昂 洞穴" 5 1012 32715 32519 32890 32633 ; dungeon of fafurion
+"法利昂 洞穴" 5 1012 32713 32648 32891 32761 ; dungeon of fafurion
+"法利昂 洞穴" 5 1012 32713 32774 32891 32890 ; dungeon of fafurion
+"法利昂 洞穴" 5 1012 32903 32517 33082 32637 ; dungeon of fafurion
+"法利昂 洞穴入口" 0 1013 32904 32712 33017 32761 ; dungeon entrance of fafurion
+"法利昂 棲息地入口" 0 1013 32903 32643 32956 32698 ; entrance of fafurion lair
+"法利昂 棲息地" 5 1013 32921 32799 33010 32869 ; fafurion lair
+"法利昂 洞穴" 5 1013 32715 32519 32890 32633 ; dungeon of fafurion
+"法利昂 洞穴" 5 1013 32713 32648 32891 32761 ; dungeon of fafurion
+"法利昂 洞穴" 5 1013 32713 32774 32891 32890 ; dungeon of fafurion
+"法利昂 洞穴" 5 1013 32903 32517 33082 32637 ; dungeon of fafurion
+"法利昂 洞穴入口" 0 1014 32904 32712 33017 32761 ; dungeon entrance of fafurion
+"法利昂 棲息地入口" 0 1014 32903 32643 32956 32698 ; entrance of fafurion lair
+"法利昂 棲息地" 5 1014 32921 32799 33010 32869 ; fafurion lair
+"法利昂 洞穴" 5 1014 32715 32519 32890 32633 ; dungeon of fafurion
+"法利昂 洞穴" 5 1014 32713 32648 32891 32761 ; dungeon of fafurion
+"法利昂 洞穴" 5 1014 32713 32774 32891 32890 ; dungeon of fafurion
+"法利昂 洞穴" 5 1014 32903 32517 33082 32637 ; dungeon of fafurion
+"法利昂 洞穴入口" 0 1015 32904 32712 33017 32761 ; dungeon entrance of fafurion
+"法利昂 棲息地入口" 0 1015 32903 32643 32956 32698 ; entrance of fafurion lair
+"法利昂 棲息地" 5 1015 32921 32799 33010 32869 ; fafurion lair
+"法利昂 洞穴" 5 1015 32715 32519 32890 32633 ; dungeon of fafurion
+"法利昂 洞穴" 5 1015 32713 32648 32891 32761 ; dungeon of fafurion
+"法利昂 洞穴" 5 1015 32713 32774 32891 32890 ; dungeon of fafurion
+"法利昂 洞穴" 5 1015 32903 32517 33082 32637 ; dungeon of fafurion
+"法利昂 洞穴入口" 0 1016 32904 32712 33017 32761 ; dungeon entrance of fafurion
+"法利昂 棲息地入口" 0 1016 32903 32643 32956 32698 ; entrance of fafurion lair
+"法利昂 棲息地" 5 1016 32921 32799 33010 32869 ; fafurion lair
+"法利昂 洞穴" 5 1016 32715 32519 32890 32633 ; dungeon of fafurion
+"法利昂 洞穴" 5 1016 32713 32648 32891 32761 ; dungeon of fafurion
+"法利昂 洞穴" 5 1016 32713 32774 32891 32890 ; dungeon of fafurion
+"法利昂 洞穴" 5 1016 32903 32517 33082 32637 ; dungeon of fafurion
+"象牙塔的秘密研究室" 0 9100 0 0 0 0 ; id lobby
+"從前的秘密研究室" 5 9000 32704 32704 32767 32767 ; id zero
+"從前的說話之島洞窟2樓" 5 9000 32640 32768 32831 32895 ; id zero
+"從前的說話之島" 5 9000 32704 32896 32767 32959 ; id zero
+"北邊峽谷(初級村)" 0 2005 32700 32704 32832 32784 ;隱藏之谷-北邊 峽谷
+"北邊峽谷(初級村)" 0 2005 32768 32784 32832 32836 ;隱藏之谷-北邊 峽谷
+"北邊峽谷(初級村)" 0 2005 32707 32836 32832 32858 ;隱藏之谷-北邊 峽谷
+"修練地(初級村)" 0 2005 32700 32784 32768 32836 ;隱藏之谷-修練地
+"西部峽谷(初級村)" 0 2005 32512 32704 32700 32827 ;隱藏之谷-西部 峽谷
+"南部峽谷(初級村)" 0 2005 32576 32827 32645 32960 ;隱藏之谷-南部 峽谷
+"南部峽谷(初級村)" 0 2005 32645 32885 32704 32960 ;隱藏之谷-南部 峽谷
+"南部峽谷(初級村)" 0 2005 32512 32827 32576 33024 ;隱藏之谷-南部 峽谷
+"南部峽谷(初級村)" 0 2005 32576 32960 32640 33024 ;隱藏之谷-南部 峽谷
+"東部峽谷(初級村)" 0 2005 32640 32960 32832 33024 ;隱藏之谷-東部 峽谷
+"東部峽谷(初級村)" 0 2005 32704 32896 32832 32960 ;隱藏之谷-東部 峽谷
+"東部峽谷(初級村)" 0 2005 32704 32885 32707 32896 ;隱藏之谷-東部 峽谷
+"東部峽谷(初級村)" 0 2005 32707 32858 32832 32896 ;隱藏之谷-東部 峽谷
+"隱藏之谷村莊(初級村)" 0 2005 32645 32828 32700 32885 ;隱藏之谷村莊
+"隱藏之谷村莊(初級村)" 0 2005 32700 32837 32707 32885 ;隱藏之谷村莊
+"詭異村落" 0 621 0 0 0 0 37 ;pc premium zone
+"林德拜爾 洞穴入口" 0 1017 32654 32907 32759 32956 ; dungeon entrance of lindvior
+"林德拜爾 棲息地入口" 0 1017 32717 32844 32762 32884 ; entrance of lindvior lair
+"林德拜爾 棲息地" 5 1017 32829 32840 32888 32902 ; lindvior lair
+"林德拜爾 洞穴" 5 1017 32587 32971 32760 33078 ; dungeon of lindvior
+"林德拜爾 洞穴" 5 1017 32589 33097 32760 33202 ; dungeon of lindvior
+"林德拜爾 洞穴" 5 1017 32778 32973 32952 33073 ; dungeon of lindvior
+"林德拜爾 洞穴" 5 1017 32778 33101 32952 33202 ; dungeon of lindvior
+"林德拜爾 洞穴入口" 0 1018 32654 32907 32759 32956 ; dungeon entrance of lindvior
+"林德拜爾 棲息地入口" 0 1018 32717 32844 32762 32884 ; entrance of lindvior lair
+"林德拜爾 棲息地" 5 1018 32829 32840 32888 32902 ; lindvior lair
+"林德拜爾 洞穴" 5 1018 32587 32971 32760 33078 ; dungeon of lindvior
+"林德拜爾 洞穴" 5 1018 32589 33097 32760 33202 ; dungeon of lindvior
+"林德拜爾 洞穴" 5 1018 32778 32973 32952 33073 ; dungeon of lindvior
+"林德拜爾 洞穴" 5 1018 32778 33101 32952 33202 ; dungeon of lindvior
+"林德拜爾 洞穴入口" 0 1019 32654 32907 32759 32956 ; dungeon entrance of lindvior
+"林德拜爾 棲息地入口" 0 1019 32717 32844 32762 32884 ; entrance of lindvior lair
+"林德拜爾 棲息地" 5 1019 32829 32840 32888 32902 ; lindvior lair
+"林德拜爾 洞穴" 5 1019 32587 32971 32760 33078 ; dungeon of lindvior
+"林德拜爾 洞穴" 5 1019 32589 33097 32760 33202 ; dungeon of lindvior
+"林德拜爾 洞穴" 5 1019 32778 32973 32952 33073 ; dungeon of lindvior
+"林德拜爾 洞穴" 5 1019 32778 33101 32952 33202 ; dungeon of lindvior
+"林德拜爾 洞穴入口" 0 1020 32654 32907 32759 32956 ; dungeon entrance of lindvior
+"林德拜爾 棲息地入口" 0 1020 32717 32844 32762 32884 ; entrance of lindvior lair
+"林德拜爾 棲息地" 5 1020 32829 32840 32888 32902 ; lindvior lair
+"林德拜爾 洞穴" 5 1020 32587 32971 32760 33078 ; dungeon of lindvior
+"林德拜爾 洞穴" 5 1020 32589 33097 32760 33202 ; dungeon of lindvior
+"林德拜爾 洞穴" 5 1020 32778 32973 32952 33073 ; dungeon of lindvior
+"林德拜爾 洞穴" 5 1020 32778 33101 32952 33202 ; dungeon of lindvior
+"林德拜爾 洞穴入口" 0 1021 32654 32907 32759 32956 ; dungeon entrance of lindvior
+"林德拜爾 棲息地入口" 0 1021 32717 32844 32762 32884 ; entrance of lindvior lair
+"林德拜爾 棲息地" 5 1021 32829 32840 32888 32902 ; lindvior lair
+"林德拜爾 洞穴" 5 1021 32587 32971 32760 33078 ; dungeon of lindvior
+"林德拜爾 洞穴" 5 1021 32589 33097 32760 33202 ; dungeon of lindvior
+"林德拜爾 洞穴" 5 1021 32778 32973 32952 33073 ; dungeon of lindvior
+"林德拜爾 洞穴" 5 1021 32778 33101 32952 33202 ; dungeon of lindvior
+"林德拜爾 洞穴入口" 0 1022 32654 32907 32759 32956 ; dungeon entrance of lindvior
+"林德拜爾 棲息地入口" 0 1022 32717 32844 32762 32884 ; entrance of lindvior lair
+"林德拜爾 棲息地" 5 1022 32829 32840 32888 32902 ; lindvior lair
+"林德拜爾 洞穴" 5 1022 32587 32971 32760 33078 ; dungeon of lindvior
+"林德拜爾 洞穴" 5 1022 32589 33097 32760 33202 ; dungeon of lindvior
+"林德拜爾 洞穴" 5 1022 32778 32973 32952 33073 ; dungeon of lindvior
+"林德拜爾 洞穴" 5 1022 32778 33101 32952 33202 ; dungeon of lindvior
+"幻象 隱龍之地"  0 58 32512 32704 32831 33023 ; Japan Fafurion Taiken event
+"萬聖節魔女村" 2 7100 32704 32832 32959 33087 ;halloween event
+"萬聖節魔女村" 2 5501 32704 32832 32959 33087 ;halloween event
+"巴拉卡斯 洞穴入口" 0 1023 32640 32768 32767 32831 ; dungeon entrance of valakas
+"巴拉卡斯 棲息地入口" 0 1023 32704 32704 32767 32767 ; entrance of valakas lair
+"巴拉卡斯 棲息地" 5 1023 32768 32704 32895 32831 ; valakas lair
+"巴拉卡斯 洞穴" 5 1023 32576 32832 32767 32959; dungeon of valakas
+"巴拉卡斯 洞穴" 5 1023 32768 32832 32959 32959 ; dungeon of valakas
+"巴拉卡斯 洞穴" 5 1023 32768 32960 32959 33087 ; dungeon of valakas
+"巴拉卡斯 洞穴" 5 1023 32576 32960 32767 33087 ; dungeon of valakas
+"巴拉卡斯 洞穴入口" 0 1024 32640 32768 32767 32831 ; dungeon entrance of valakas
+"巴拉卡斯 棲息地入口" 0 1024 32704 32704 32767 32767 ; entrance of valakas lair
+"巴拉卡斯 棲息地" 5 1024 32768 32704 32895 32831 ; valakas lair
+"巴拉卡斯 洞穴" 5 1024 32576 32832 32767 32959; dungeon of valakas
+"巴拉卡斯 洞穴" 5 1024 32768 32832 32959 32959 ; dungeon of valakas
+"巴拉卡斯 洞穴" 5 1024 32768 32960 32959 33087 ; dungeon of valakas
+"巴拉卡斯 洞穴" 5 1024 32576 32960 32767 33087 ; dungeon of valakas
+"巴拉卡斯 洞穴入口" 0 1025 32640 32768 32767 32831 ; dungeon entrance of valakas
+"巴拉卡斯 棲息地入口" 0 1025 32704 32704 32767 32767 ; entrance of valakas lair
+"巴拉卡斯 棲息地" 5 1025 32768 32704 32895 32831 ; valakas lair
+"巴拉卡斯 洞穴" 5 1025 32576 32832 32767 32959; dungeon of valakas
+"巴拉卡斯 洞穴" 5 1025 32768 32832 32959 32959 ; dungeon of valakas
+"巴拉卡斯 洞穴" 5 1025 32768 32960 32959 33087 ; dungeon of valakas
+"巴拉卡斯 洞穴" 5 1025 32576 32960 32767 33087 ; dungeon of valakas
+"巴拉卡斯 洞穴入口 "0 1026 32640 32768 32767 32831 ; dungeon entrance of valakas
+"巴拉卡斯 棲息地入口" 0 1026 32704 32704 32767 32767 ; entrance of valakas lair
+"巴拉卡斯 棲息地" 5 1026 32768 32704 32895 32831 ; valakas lair
+"巴拉卡斯 洞穴" 5 1026 32576 32832 32767 32959; dungeon of valakas
+"巴拉卡斯 洞穴" 5 1026 32768 32832 32959 32959 ; dungeon of valakas
+"巴拉卡斯 洞穴" 5 1026 32768 32960 32959 33087 ; dungeon of valakas
+"巴拉卡斯 洞穴" 5 1026 32576 32960 32767 33087 ; dungeon of valakas
+"巴拉卡斯 洞穴入口" 0 1027 32640 32768 32767 32831 ; dungeon entrance of valakas
+"巴拉卡斯 棲息地入口" 0 1027 32704 32704 32767 32831 ; entrance of valakas lair
+"巴拉卡斯 棲息地" 5 1027 32768 32704 32895 32704 ; valakas lair
+"巴拉卡斯 洞穴" 5 1027 32576 32832 32767 32959; dungeon of valakas
+"巴拉卡斯 洞穴" 5 1027 32768 32832 32959 32959 ; dungeon of valakas
+"巴拉卡斯 洞穴" 5 1027 32768 32960 32959 33087 ; dungeon of valakas
+"巴拉卡斯 洞穴" 5 1027 32576 32960 32767 33087 ; dungeon of valakas
+"巴拉卡斯 洞穴入口" 0 1028 32640 32768 32767 32831 ; dungeon entrance of valakas
+"巴拉卡斯 棲息地入口" 0 1028 32704 32704 32767 32831 ; entrance of valakas lair
+"巴拉卡斯 棲息地" 5 1028 32768 32704 32895 32704 ; valakas lair
+"巴拉卡斯 洞穴" 5 1028 32576 32832 32767 32959; dungeon of valakas
+"巴拉卡斯 洞穴" 5 1028 32768 32832 32959 32959 ; dungeon of valakas
+"巴拉卡斯 洞穴" 5 1028 32768 32960 32959 33087 ; dungeon of valakas
+"巴拉卡斯 洞穴" 5 1028 32576 32960 32767 33087 ; dungeon of valakas
+"象牙塔的秘密研究室"  0 9202 0 0 0 0 ; id lobby two
+"定期船甲板"  5 9101 32768 32768 32831 32831 ; id zero
+"哈汀船艦地下1樓"  5 9101 32640 32768 32703 32831 ; id zero
+"海賊船地下1樓"  5 9101 32768 32832 32831 32895 ; id zero
+"幽靈船地下1樓"  5 9101 32704 32832 32767 32895 ; id zero
+"魔法船地下1樓"  5 9101 32704 32768 32767 32831 ; id zero
+"魔法船地下1樓" 5 9101 32640 32832 32703 32895 ; id zero
+"麥特斯的遊樂場 1區" 5 2006 0 0 0 0 50;
+"麥特斯的遊樂場 2區" 5 2008 0 0 0 0 50;
+"麥特斯的遊樂場 3區" 5 2009 0 0 0 0 50;
+"古魯丁村莊" 0 730 32583 32708 32650 32832 0 3
+"肯特村莊" 0 730 33028 32721 33082 32816 0 6
+"燃柳村莊" 0 731 32711 32415 32768 32484 0 2
+"風木村莊" 0 732 32580 33216 32657 33295 0 4
+"銀騎士村莊" 0 732 33046 33407 33142 33489 0 7
+"威頓村莊" 0 739 33674 32463 33784 32540 0 0
+"古魯丁村莊" 0 730 32512 32512 32960 33087 0 3
+"肯特村莊" 0 730 32960 32512 33279 33087 0 6
+"妖魔森林" 0 731 0 0 0 0 0 2
+"風木村莊" 0 732 0 0 0 0 0 4
+"妖森" 0 733 0 0 0 0 0 5
+"奇岩" 0 734 0 0 0 0 0 10
+"龍之谷" 4 735 0 0 0 0 0 8
+"鏡子森林" 5 736 0 0 0 0 0 11
+"巴拉卡斯 巢穴" 4 739 0 0 0 0 0 9
+"海音村莊" 0 737 0 0 0 0 0 11
+"歐瑞村莊" 0 740 0 0 0 0 0 12
+"亞丁城鎮" 0 741 0 0 0 0 0 13
+"無人島" 4 738 0 0 0 0
+"亞丁 物品交易所" 0 331 32712 32805 32828 32847 ;auction market
+"亞丁 物品交易所" 0 331 32717 32716 32827 32803 ;equipment market
+"亞丁 物品交易所" 0 331 32707 32847 32828 32955 ;consumables market
+"史萊姆回憶地" 2 2007 0 0 0 0
+"耶誕聖地" 2 613 0 0 0 0 35 ; jp 2011 xmas
+"女性單身派對" 0 6201 32777 32780 33146 33147 ;valentine day event
+"女性單身派對" 0 6202 32777 32780 33146 33147 ;valentine day event
+"女性單身派對" 0 6203 32777 32780 33146 33147 ;valentine day event
+"哈爾帕斯教的集會場" 3 5551 32862 32893 32904 32937 ;white day event
+"哈爾帕斯教的巢穴" 3 5551 32744 32875 32776 32914 ;white day event
+"哈爾帕斯教的巢穴" 3 5551 32761 32934 32789 32969 ;white day event
+"哈爾帕斯教的巢穴" 3 5551 32892 33010 32916 33037 ;white day event
+"哈爾帕斯教的巢穴" 3 5551 32787 32991 32814 33027 ;white day event
+"哈爾帕斯教的巢穴" 3 5551 32803 32881 32832 32915 ;white day event
+"哈爾帕斯教的墓地" 3 5551 32847 32981 32875 33008 ;white day event
+"哈爾帕斯教的大本營" 2 5551 32704 32832 32959 33087 ;white day event
+"冰之女王的洞穴" 3 271 0 0 0 0 ;Oren ice dungeon L
+"冰之女王的洞穴" 3 272 0 0 0 0 ;Oren ice dungeon I
+"冰之女王的洞穴" 3 273 0 0 0 0 ;Oren ice dungeon N
+"冰之女王的洞穴" 3 274 0 0 0 0 ;Oren ice dungeon E
+"冰之女王的洞穴" 3 275 0 0 0 0 ;Oren ice dungeon A
+"冰之女王的洞穴" 3 276 0 0 0 0 ;Oren ice dungeon G
+"冰之女王的洞穴" 3 277 0 0 0 0 ;Oren ice dungeon E
+"冰之女王的洞穴" 3 278 0 0 0 0 ;Oren ice dungeon all
+"冰之女王的宮殿入口" 3 2100 0 0 0 0 ;Oren ice dungeon B2
+"冰之女王的宮殿" 4 2101 0 0 0 0 ;Oren ice dungeon A
+"冰之女王的宮殿" 4 2151 0 0 0 0 ;Oren ice dungeon B
+"國王狩獵場1區" 3 785 0 0 0 0 ;dk hunting zone1
+"國王狩獵場2區" 3 788 0 0 0 0 ;dk hunting zone2
+"國王狩獵場3區" 3 789 0 0 0 0 ;dk hunting zone3
+"妖精的空中宮殿" 3 7781 0 0 0 0 ; jp 2012 lineage10th
+"妖精森林" 3 7053 0 0 0 0 ; jp concealed fairy forest3
+"神秘的冰之女王洞穴 1樓" 3 2201 0 0 0 0 ; oren ice dungeon PC event 1
+"神秘的冰之女王洞穴 2樓" 3 2202 0 0 0 0 ; oren ice dungeon PC event 2
+"神秘的冰之女王洞穴 3樓" 3 2203 0 0 0 0 ; oren ice dungeon PC event 3
+"結婚典禮會場" 0 5554 0 0 0 0 ; weddinghall
+"亞努斯的象牙塔 4樓 炎魔營" 5 280 0 0 0 0 ;yanus tower of barlog 4F
+"亞努斯的象牙塔 5樓 炎魔營" 5 281 0 0 0 0 ;yanus tower of barlog 5F
+"亞努斯的象牙塔 6樓 炎魔營" 5 282 0 0 0 0 ;yanus tower of barlog 6F
+"亞努斯的象牙塔 7樓 炎魔營" 5 283 0 0 0 0 ;yanus tower of barlog 7F
+"亞努斯的象牙塔 8樓 炎魔營" 5 284 0 0 0 0 ;yanus tower of barlog 8F
+"亞努斯的象牙塔 4樓 火焰之影營" 5 285 0 0 0 0 ;yanus tower of yahee 4F
+"亞努斯的象牙塔 5樓 火焰之影營" 5 286 0 0 0 0 ;yanus tower of yahee 5F
+"亞努斯的象牙塔 6樓 火焰之影營" 5 287 0 0 0 0 ;yanus tower of yahee 6F
+"亞努斯的象牙塔 7樓 火焰之影營" 5 288 0 0 0 0 ;yanus tower of yahee 7F
+"亞努斯的象牙塔 8樓 火焰之影營" 5 289 0 0 0 0 ;yanus tower of yahee 8F
+"第 1 妖魔部隊前哨基地" 5 261 0 0 0 0 ;island event
+"隱藏地第 1 妖魔部隊前哨基地" 5 262 0 0 0 0 ;island event pc
+"第 2 妖魔部隊前哨基地" 5 263 0 0 0 0 ;island event
+"第 3 妖魔部隊前哨基地" 5 264 0 0 0 0 ;island event
+"第 4 妖魔部隊前哨基地" 5 265 0 0 0 0 ;island event
+"第 5 妖魔部隊前哨基地" 5 266 0 0 0 0 ;island event
+"隱藏地第 2 妖魔部隊前哨基地" 5 267 0 0 0 0 ;island event pc
+"第 6 妖魔部隊前哨基地" 5 268 0 0 0 0 ;island event
+"第 7 妖魔部隊前哨基地" 5 269 0 0 0 0 ;island event
+"第 8 妖魔部隊前哨基地" 5 279 0 0 0 0 ;island event
+"隱藏的第3妖魔部隊前哨基地" 5 290 0 0 0 0 ;island event pc
+"隱藏的第4妖魔部隊前哨基地" 5 291 0 0 0 0 ;island event pc
+"可疑的天谷 1區域" 3 623 0 0 0 0 ; 網咖專用打怪區
+"魔族實驗室" 0 7785 0 0 0 0 146; 
+"魔族實驗室2樓" 0 7786 0 0 0 0 146;
+"黑暗的大洞穴 1區" 3 790 0 0 0 0 ;lastvard renewal event zone1
+"黑暗的大洞穴 2區" 3 791 0 0 0 0 ;lastvard renewal event zone2
+"黑暗的大洞穴 3區" 3 792 0 0 0 0 ;lastvard renewal event zone3
+"黑暗的大洞穴 4區" 3 793 0 0 0 0 ;lastvard renewal event zone4
+"黑暗的大洞穴 5區" 3 794 0 0 0 0 ;lastvard renewal event zone5
+"黑暗的大洞穴 6區" 3 795 0 0 0 0 ;lastvard renewal event zone6
+"可疑的大洞穴 1區(網咖)" 3 796 0 0 0 0 ;lastvard renewal event zone7
+"可疑的大洞穴 2區(網咖)" 3 797 0 0 0 0 ;lastvard renewal event zone8
+"可疑的大洞穴 3區(網咖)" 3 798 0 0 0 0 ;lastvard renewal event zone9
+"可疑的大洞穴 4區(網咖)" 3 799 0 0 0 0 ;lastvard renewal event zone10
+"城墎" 3 8000 0 0 0 0 ; jp yamato p1
+"PSY的演場會 奇岩1" 0 1234 0 0 0 0 ; psy concert
+"PSY的演場會 奇岩2" 0 1235 0 0 0 0 ; psy concert
+"PSY的演場會 奇岩3" 0 1236 0 0 0 0 ; psy concert
+"PSY的演場會 奇岩4" 0 1237 0 0 0 0 ; psy concert
+"PSY的演場會 奇岩5" 0 1238 0 0 0 0 ; psy concert
+"PSY的演場會 奇岩6" 0 1239 0 0 0 0 ; psy concert
+"PSY的演場會 奇岩7" 0 1240 0 0 0 0 ; psy concert
+"PSY的演場會 奇岩8" 0 1241 0 0 0 0 ; psy concert
+"PSY的演場會 奇岩9" 0 1242 0 0 0 0 ; psy concert
+"PSY的演場會 奇岩10" 0 1243 0 0 0 0 ; psy concert
+"PSY的演場會 奇岩11" 0 1244 0 0 0 0 ; psy concert
+"PSY的演場會 奇岩12" 0 1245 0 0 0 0 ; psy concert
+"PSY的演場會 奇岩13" 0 1246 0 0 0 0 ; psy concert
+"PSY的演場會 奇岩14" 0 1247 0 0 0 0 ; psy concert
+"PSY的演場會 奇岩15" 0 1248 0 0 0 0 ; psy concert
+"PSY的演場會 奇岩16" 0 1249 0 0 0 0 ; psy concert
+"PSY的演場會 奇岩17" 0 1250 0 0 0 0 ; psy concert
+"PSY的演場會 奇岩18" 0 1251 0 0 0 0 ; psy concert
+"PSY的演場會 奇岩19" 0 1252 0 0 0 0 ; psy concert
+"PSY的演場會 奇岩20" 0 1253 0 0 0 0 ; psy concert
+"PSY的演場會 奇岩21" 0 1254 0 0 0 0 ; psy concert
+"PSY的演場會 奇岩22" 0 1255 0 0 0 0 ; psy concert
+"PSY的演場會 奇岩23" 0 1256 0 0 0 0 ; psy concert
+"PSY的演場會 奇岩24" 0 1257 0 0 0 0 ; psy concert
+"PSY的演場會 奇岩25" 0 1258 0 0 0 0 ; psy concert
+"PSY的演場會 歐瑞1" 0 1259 0 0 0 0 ; psy concert
+"PSY的演場會 歐瑞2" 0 1260 0 0 0 0 ; psy concert
+"PSY的演場會 歐瑞3" 0 1261 0 0 0 0 ; psy concert
+"PSY的演場會 歐瑞4" 0 1262 0 0 0 0 ; psy concert
+"PSY的演場會 歐瑞5" 0 1263 0 0 0 0 ; psy concert
+"PSY的演場會 歐瑞6" 0 1264 0 0 0 0 ; psy concert
+"PSY的演場會 歐瑞7" 0 1265 0 0 0 0 ; psy concert
+"PSY的演場會 歐瑞8" 0 1266 0 0 0 0 ; psy concert
+"PSY的演場會 歐瑞9" 0 1267 0 0 0 0 ; psy concert
+"PSY的演場會 歐瑞10" 0 1268 0 0 0 0 ; psy concert
+"PSY的演場會 歐瑞11" 0 1269 0 0 0 0 ; psy concert
+"PSY的演場會 歐瑞12" 0 1270 0 0 0 0 ; psy concert
+"PSY的演場會 歐瑞13" 0 1271 0 0 0 0 ; psy concert
+"PSY的演場會 歐瑞14" 0 1272 0 0 0 0 ; psy concert
+"PSY的演場會 歐瑞15" 0 1273 0 0 0 0 ; psy concert
+"PSY的演場會 歐瑞16" 0 1274 0 0 0 0 ; psy concert
+"PSY的演場會 歐瑞17" 0 1275 0 0 0 0 ; psy concert
+"PSY的演場會 歐瑞18" 0 1276 0 0 0 0 ; psy concert
+"PSY的演場會 歐瑞19" 0 1277 0 0 0 0 ; psy concert
+"PSY的演場會 歐瑞20" 0 1278 0 0 0 0 ; psy concert
+"PSY的演場會 歐瑞21" 0 1279 0 0 0 0 ; psy concert
+"PSY的演場會 歐瑞22" 0 1280 0 0 0 0 ; psy concert
+"PSY的演場會 歐瑞23" 0 1281 0 0 0 0 ; psy concert
+"PSY的演場會 歐瑞24" 0 1282 0 0 0 0 ; psy concert
+"PSY的演場會 歐瑞25" 0 1283 0 0 0 0 ; psy concert
+"PSY的演場會 古魯丁1" 0 1284 0 0 0 0 ; psy concert
+"PSY的演場會 古魯丁2" 0 1285 0 0 0 0 ; psy concert
+"PSY的演場會 古魯丁3" 0 1286 0 0 0 0 ; psy concert
+"PSY的演場會 古魯丁4" 0 1287 0 0 0 0 ; psy concert
+"PSY的演場會 古魯丁5" 0 1288 0 0 0 0 ; psy concert
+"PSY的演場會 古魯丁6" 0 1289 0 0 0 0 ; psy concert
+"PSY的演場會 古魯丁7" 0 1290 0 0 0 0 ; psy concert
+"PSY的演場會 古魯丁8" 0 1291 0 0 0 0 ; psy concert
+"PSY的演場會 古魯丁9" 0 1292 0 0 0 0 ; psy concert
+"PSY的演場會 古魯丁10" 0 1293 0 0 0 0 ; psy concert
+"PSY的演場會 古魯丁11" 0 1294 0 0 0 0 ; psy concert
+"PSY的演場會 古魯丁12" 0 1295 0 0 0 0 ; psy concert
+"PSY的演場會 古魯丁13" 0 1296 0 0 0 0 ; psy concert
+"PSY的演場會 古魯丁14" 0 1297 0 0 0 0 ; psy concert
+"PSY的演場會 古魯丁15" 0 1298 0 0 0 0 ; psy concert
+"PSY的演場會 古魯丁16" 0 1299 0 0 0 0 ; psy concert
+"PSY的演場會 古魯丁17" 0 1300 0 0 0 0 ; psy concert
+"PSY的演場會 古魯丁18" 0 1301 0 0 0 0 ; psy concert
+"PSY的演場會 古魯丁19" 0 1302 0 0 0 0 ; psy concert
+"PSY的演場會 古魯丁20" 0 1303 0 0 0 0 ; psy concert
+"PSY的演場會 古魯丁21" 0 1304 0 0 0 0 ; psy concert
+"PSY的演場會 古魯丁22" 0 1305 0 0 0 0 ; psy concert
+"PSY的演場會 古魯丁23" 0 1306 0 0 0 0 ; psy concert
+"PSY的演場會 古魯丁24" 0 1307 0 0 0 0 ; psy concert
+"PSY的演場會 古魯丁25" 0 1308 0 0 0 0 ; psy concert
+"PSY的演場會 銀騎士1" 0 1309 0 0 0 0 ; psy concert
+"PSY的演場會 銀騎士2" 0 1310 0 0 0 0 ; psy concert
+"PSY的演場會 銀騎士3" 0 1311 0 0 0 0 ; psy concert
+"PSY的演場會 銀騎士4" 0 1312 0 0 0 0 ; psy concert
+"PSY的演場會 銀騎士5" 0 1313 0 0 0 0 ; psy concert
+"PSY的演場會 銀騎士6" 0 1314 0 0 0 0 ; psy concert
+"PSY的演場會 銀騎士7" 0 1315 0 0 0 0 ; psy concert
+"PSY的演場會 銀騎士8" 0 1316 0 0 0 0 ; psy concert
+"PSY的演場會 銀騎士9" 0 1317 0 0 0 0 ; psy concert
+"PSY的演場會 銀騎士10" 0 1318 0 0 0 0 ; psy concert
+"PSY的演場會 銀騎士11" 0 1319 0 0 0 0 ; psy concert
+"PSY的演場會 銀騎士12" 0 1320 0 0 0 0 ; psy concert
+"PSY的演場會 銀騎士13" 0 1321 0 0 0 0 ; psy concert
+"PSY的演場會 銀騎士14" 0 1322 0 0 0 0 ; psy concert
+"PSY的演場會 銀騎士15" 0 1323 0 0 0 0 ; psy concert
+"PSY的演場會 銀騎士16" 0 1324 0 0 0 0 ; psy concert
+"PSY的演場會 銀騎士17" 0 1325 0 0 0 0 ; psy concert
+"PSY的演場會 銀騎士18" 0 1326 0 0 0 0 ; psy concert
+"PSY的演場會 銀騎士19" 0 1327 0 0 0 0 ; psy concert
+"PSY的演場會 銀騎士20" 0 1328 0 0 0 0 ; psy concert
+"PSY的演場會 銀騎士21" 0 1329 0 0 0 0 ; psy concert
+"PSY的演場會 銀騎士22" 0 1330 0 0 0 0 ; psy concert
+"PSY的演場會 銀騎士23" 0 1331 0 0 0 0 ; psy concert
+"PSY的演場會 銀騎士24" 0 1332 0 0 0 0 ; psy concert
+"PSY的演場會 銀騎士25" 0 1333 0 0 0 0 ; psy concert
+"軍事訓練所 1區" 0 1400 0 0 0 0 ; bosskey training room
+"軍事訓練所 2區" 0 1401 0 0 0 0 ; bosskey training room
+"軍事訓練所 3區" 0 1402 0 0 0 0 ; bosskey training room
+"軍事訓練所 4區" 0 1403 0 0 0 0 ; bosskey training room
+"軍事訓練所 5區" 0 1404 0 0 0 0 ; bosskey training room
+"軍事訓練所 6區" 0 1405 0 0 0 0 ; bosskey training room
+"軍事訓練所 7區" 0 1406 0 0 0 0 ; bosskey training room
+"軍事訓練所 8區" 0 1407 0 0 0 0 ; bosskey training room
+"軍事訓練所 9區" 0 1408 0 0 0 0 ; bosskey training room
+"軍事訓練所 10區" 0 1409 0 0 0 0 ; bosskey training room
+"軍事訓練所 11區" 0 1410 0 0 0 0 ; bosskey training room
+"軍事訓練所 12區" 0 1411 0 0 0 0 ; bosskey training room
+"軍事訓練所 13區" 0 1412 0 0 0 0 ; bosskey training room
+"軍事訓練所 14區" 0 1413 0 0 0 0 ; bosskey training room
+"軍事訓練所 15區" 0 1414 0 0 0 0 ; bosskey training room
+"軍事訓練所 16區" 0 1415 0 0 0 0 ; bosskey training room
+"軍事訓練所 17區" 0 1416 0 0 0 0 ; bosskey training room
+"軍事訓練所 18區" 0 1417 0 0 0 0 ; bosskey training room
+"軍事訓練所 19區" 0 1418 0 0 0 0 ; bosskey training room
+"軍事訓練所 20區" 0 1419 0 0 0 0 ; bosskey training room
+"軍事訓練所 21區" 0 1420 0 0 0 0 ; bosskey training room
+"軍事訓練所 22區" 0 1421 0 0 0 0 ; bosskey training room
+"軍事訓練所 23區" 0 1422 0 0 0 0 ; bosskey training room
+"軍事訓練所 24區" 0 1423 0 0 0 0 ; bosskey training room
+"軍事訓練所 25區" 0 1424 0 0 0 0 ; bosskey training room
+"軍事訓練所 26區" 0 1425 0 0 0 0 ; bosskey training room
+"軍事訓練所 27區" 0 1426 0 0 0 0 ; bosskey training room
+"軍事訓練所 28區" 0 1427 0 0 0 0 ; bosskey training room
+"軍事訓練所 29區" 0 1428 0 0 0 0 ; bosskey training room
+"軍事訓練所 30區" 0 1429 0 0 0 0 ; bosskey training room
+"軍事訓練所 31區" 0 1430 0 0 0 0 ; bosskey training room
+"軍事訓練所 32區" 0 1431 0 0 0 0 ; bosskey training room
+"軍事訓練所 33區" 0 1432 0 0 0 0 ; bosskey training room
+"軍事訓練所 34區" 0 1433 0 0 0 0 ; bosskey training room
+"軍事訓練所 35區" 0 1434 0 0 0 0 ; bosskey training room
+"軍事訓練所 36區" 0 1435 0 0 0 0 ; bosskey training room
+"軍事訓練所 37區" 0 1436 0 0 0 0 ; bosskey training room
+"軍事訓練所 38區" 0 1437 0 0 0 0 ; bosskey training room
+"軍事訓練所 39區" 0 1438 0 0 0 0 ; bosskey training room
+"軍事訓練所 40區" 0 1439 0 0 0 0 ; bosskey training room
+"軍事訓練所 41區" 0 1440 0 0 0 0 ; bosskey training room
+"軍事訓練所 42區" 0 1441 0 0 0 0 ; bosskey training room
+"軍事訓練所 43區" 0 1442 0 0 0 0 ; bosskey training room
+"軍事訓練所 44區" 0 1443 0 0 0 0 ; bosskey training room
+"軍事訓練所 45區" 0 1444 0 0 0 0 ; bosskey training room
+"軍事訓練所 46區" 0 1445 0 0 0 0 ; bosskey training room
+"軍事訓練所 47區" 0 1446 0 0 0 0 ; bosskey training room
+"軍事訓練所 48區" 0 1447 0 0 0 0 ; bosskey training room
+"軍事訓練所 49區" 0 1448 0 0 0 0 ; bosskey training room
+"軍事訓練所 50區" 0 1449 0 0 0 0 ; bosskey training room
+"軍事訓練所 51區" 0 1450 0 0 0 0 ; bosskey training room
+"軍事訓練所 52區" 0 1451 0 0 0 0 ; bosskey training room
+"軍事訓練所 53區" 0 1452 0 0 0 0 ; bosskey training room
+"軍事訓練所 54區" 0 1453 0 0 0 0 ; bosskey training room
+"軍事訓練所 55區" 0 1454 0 0 0 0 ; bosskey training room
+"軍事訓練所 56區" 0 1455 0 0 0 0 ; bosskey training room
+"軍事訓練所 57區" 0 1456 0 0 0 0 ; bosskey training room
+"軍事訓練所 58區" 0 1457 0 0 0 0 ; bosskey training room
+"軍事訓練所 59區" 0 1458 0 0 0 0 ; bosskey training room
+"軍事訓練所 60區" 0 1459 0 0 0 0 ; bosskey training room
+"軍事訓練所 61區" 0 1460 0 0 0 0 ; bosskey training room
+"軍事訓練所 62區" 0 1461 0 0 0 0 ; bosskey training room
+"軍事訓練所 63區" 0 1462 0 0 0 0 ; bosskey training room
+"軍事訓練所 64區" 0 1463 0 0 0 0 ; bosskey training room
+"軍事訓練所 65區" 0 1464 0 0 0 0 ; bosskey training room
+"軍事訓練所 66區" 0 1465 0 0 0 0 ; bosskey training room
+"軍事訓練所 67區" 0 1466 0 0 0 0 ; bosskey training room
+"軍事訓練所 68區" 0 1467 0 0 0 0 ; bosskey training room
+"軍事訓練所 69區" 0 1468 0 0 0 0 ; bosskey training room
+"軍事訓練所 70區" 0 1469 0 0 0 0 ; bosskey training room
+"軍事訓練所 71區" 0 1470 0 0 0 0 ; bosskey training room
+"軍事訓練所 72區" 0 1471 0 0 0 0 ; bosskey training room
+"軍事訓練所 73區" 0 1472 0 0 0 0 ; bosskey training room
+"軍事訓練所 74區" 0 1473 0 0 0 0 ; bosskey training room
+"軍事訓練所 75區" 0 1474 0 0 0 0 ; bosskey training room
+"軍事訓練所 76區" 0 1475 0 0 0 0 ; bosskey training room
+"軍事訓練所 77區" 0 1476 0 0 0 0 ; bosskey training room
+"軍事訓練所 78區" 0 1477 0 0 0 0 ; bosskey training room
+"軍事訓練所 79區" 0 1478 0 0 0 0 ; bosskey training room
+"軍事訓練所 80區" 0 1479 0 0 0 0 ; bosskey training room
+"軍事訓練所 81區" 0 1480 0 0 0 0 ; bosskey training room
+"軍事訓練所 82區" 0 1481 0 0 0 0 ; bosskey training room
+"軍事訓練所 83區" 0 1482 0 0 0 0 ; bosskey training room
+"軍事訓練所 84區" 0 1483 0 0 0 0 ; bosskey training room
+"軍事訓練所 85區" 0 1484 0 0 0 0 ; bosskey training room
+"軍事訓練所 86區" 0 1485 0 0 0 0 ; bosskey training room
+"軍事訓練所 87區" 0 1486 0 0 0 0 ; bosskey training room
+"軍事訓練所 88區" 0 1487 0 0 0 0 ; bosskey training room
+"軍事訓練所 89區" 0 1488 0 0 0 0 ; bosskey training room
+"軍事訓練所 90區" 0 1489 0 0 0 0 ; bosskey training room
+"軍事訓練所 91區" 0 1490 0 0 0 0 ; bosskey training room
+"軍事訓練所 92區" 0 1491 0 0 0 0 ; bosskey training room
+"軍事訓練所 93區" 0 1492 0 0 0 0 ; bosskey training room
+"軍事訓練所 94區" 0 1493 0 0 0 0 ; bosskey training room
+"軍事訓練所 95區" 0 1494 0 0 0 0 ; bosskey training room
+"軍事訓練所 96區" 0 1495 0 0 0 0 ; bosskey training room
+"軍事訓練所 97區" 0 1496 0 0 0 0 ; bosskey training room
+"軍事訓練所 98區" 0 1497 0 0 0 0 ; bosskey training room
+"軍事訓練所 99區" 0 1498 0 0 0 0 ; bosskey training room
+"荒廢的黑暗妖精的聖地 1區" 3 1901 0 0 0 0 ;kirev zone1
+"荒廢的黑暗妖精的聖地 2區" 3 1902 0 0 0 0 ;kirev zone2
+"荒廢的黑暗妖精的聖地 3區" 3 1903 0 0 0 0 ;kirev zone3
+"荒廢的黑暗妖精的聖地 4區" 3 1904 0 0 0 0 ;kirev zone4
+"荒廢的黑暗妖精的聖地 5區" 3 1905 0 0 0 0 ;kirev zone5
+"荒廢的黑暗妖精的聖地 6區" 3 1906 0 0 0 0 ;kirev zone6
+"可疑的黑暗妖精的聖地 1區" 3 1907 0 0 0 0 ;kirev 網咖 zone1
+"可疑的黑暗妖精的聖地 2區" 3 1908 0 0 0 0 ;kirev 網咖 zone2
+"可疑的黑暗妖精的聖地 3區" 3 1909 0 0 0 0 ;kirev 網咖 zone3
+"可疑的黑暗妖精的聖地 4區" 3 1910 0 0 0 0 ;kirev 網咖 zone4
+"可疑的天谷 2區域" 3 1911 0 0 0 0 ; 網咖專用打怪區
+"可疑的天谷 3區域" 3 1912 0 0 0 0 ; 網咖專用打怪區
+"可疑的天谷 4區域" 3 1913 0 0 0 0 ; 網咖專用打怪區
+"可疑的天谷 5區域" 3 1914 0 0 0 0 ; 網咖專用打怪區
+"可疑的天谷 6區域" 3 1915 0 0 0 0 ; 網咖專用打怪區
+"市場中心" 0 800 0 0 0 0 147 ;market zone
+"西之地" 3 8001 0 0 0 0 ; jp yamato p2
+"東之地" 3 8002 0 0 0 0 ; jp yamato p2
+"北之地" 3 8003 0 0 0 0 ; jp yamato p2
+"死亡之地" 3 8006 0 0 0 0 ; jp yamato p2
+"無線網路 第1區" 3 1920 0 0 0 0 ;wifi zone1
+"無線網路 第2區" 3 1921 0 0 0 0 ;wifi zone2
+"無線網路 第3區" 3 1922 0 0 0 0 ;wifi zone3
+"無線網路 第4區" 3 1923 0 0 0 0 ;wifi zone4
+"無線網路 第5區" 3 1924 0 0 0 0 ;wifi zone5
+"無線網路 第6區" 3 1925 0 0 0 0 ;wifi zone6
+"無線網路(網咖) 第1區" 3 1926 0 0 0 0 ;wifi zone7
+"無線網路(網咖) 第2區" 3 1927 0 0 0 0 ;wifi zone8
+"無線網路(網咖) 第3區" 3 1928 0 0 0 0 ;wifi zone9
+"無線網路(網咖) 第4區" 3 1929 0 0 0 0 ;wifi zone10
+"回流勇士訓練所" 4 1930 0 0 0 0 ;回流活動狩獵場
+"侏儒技術者的休息室" 3 611 0 0 0 0 ;Rest Zone of Dwarvish Atelier
+"侏儒的特殊空房α1區域" 3 8016 0 0 0 0 ;Dwarvish Special Atelier α1
+"侏儒的特殊空房α2區域" 3 8017 0 0 0 0 ;Dwarvish Special Atelier α2
+"侏儒的特殊空房α3區域" 3 8018 0 0 0 0 ;Dwarvish Special Atelier α3
+"侏儒的特殊空房α4區域" 3 8019 0 0 0 0 ;Dwarvish Special Atelier α4
+"侏儒的特殊空房α5區域" 3 8020 0 0 0 0 ;Dwarvish Special Atelier α5
+"侏儒的特殊空房β1區域" 3 8021 0 0 0 0 ;Dwarvish Special Atelier β1
+"侏儒的特殊空房β2區域" 3 8022 0 0 0 0 ;Dwarvish Special Atelier β2
+"侏儒的特殊空房β3區域" 3 8023 0 0 0 0 ;Dwarvish Special Atelier β3
+"侏儒的特殊空房β4區域" 3 8024 0 0 0 0 ;Dwarvish Special Atelier β4
+"侏儒的特殊空房β5區域" 3 8025 0 0 0 0 ;Dwarvish Special Atelier β5
+"迷你遊戲 世界" 0 292 0 0 0 0 ; minigame
