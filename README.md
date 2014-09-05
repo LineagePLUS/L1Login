@@ -1,4 +1,4 @@
-## Login_3.42
+## Login_3.45
 
 ***
 
@@ -48,3 +48,4 @@ Generates `pack.properties`
     Line 1 | http://update.domain.name/terms/index.html
     Line 2 | http://update.domain.name/login.ini
     Line 3 | http://update.domain.name/pc/update.ini
+	Line 4 | http://ui.domain.name/index.html
